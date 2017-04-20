@@ -15,5 +15,6 @@
 .text-overflow{
    white-space: nowrap;
    overflow-x:  hidden;
+   width:90%;
    text-overflow: ellipsis;
 }
