@@ -101,6 +101,8 @@ $f = new Functions();
 
                         <li class="dropdown-header">B.Des</li>
                         <li><a href="#">CITBDAT</a></li>
+                        <li class="dropdown-header">Admission Website</li>
+                        <li><a href="http://admission.cit.ac.in">CIT Admission Website</a></li>
 
                     </ul>
                 </li>
