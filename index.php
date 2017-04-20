@@ -67,7 +67,7 @@
                     include ('inc/main-slider.php');
                 ?>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 text-overflow">
                 <div class="alert alert-info"><b>Notices</b></div>
                 <ul class="text-left list-unstyled">
                     <?php
@@ -89,7 +89,7 @@
                       <li role="presentation"><a href="#">Tenders</a></li>
                   </ul>
                   <br>
-                  <div class="text-overflow">
+                  <div>
                       <ul class="text-left list-unstyled">
                       <?php
                       $str = "SELECT * FROM `notices` WHERE `type`='notice' ORDER BY `created_at` DESC LIMIT 10";

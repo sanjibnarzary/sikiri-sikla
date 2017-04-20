@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/styles.css" afterPath="$PROJECT_DIR$/assets/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,11 +46,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="91" column="43" lean-forward="false" selection-start-line="91" selection-start-column="43" selection-end-line="91" selection-end-column="43" />
+            <state relative-caret-position="61">
+              <caret line="69" column="46" lean-forward="false" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
               <folding>
-                <marker date="1492686027128" expanded="true" signature="4873:4940" ph="SELECT * FRO... notices" />
-                <marker date="1492686027128" expanded="true" signature="5885:5966" ph="SELECT * FRO... notices" />
+                <marker date="1492686173310" expanded="true" signature="4887:4954" ph="SELECT * FRO... notices" />
+                <marker date="1492686173310" expanded="true" signature="5877:5958" ph="SELECT * FRO... notices" />
               </folding>
             </state>
           </provider>
@@ -441,12 +440,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492603662216</updated>
       <workItem from="1492603663985" duration="23049000" />
-      <workItem from="1492653582857" duration="15222000" />
+      <workItem from="1492653582857" duration="15368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38271000" />
+    <option name="totallyTimeSpent" value="38417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="0" />
@@ -550,8 +549,8 @@
         <state relative-caret-position="1125">
           <caret line="75" column="34" lean-forward="false" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
           <folding>
-            <marker date="1492686027128" expanded="true" signature="4873:4940" ph="SELECT * FRO... notices" />
-            <marker date="1492686027128" expanded="true" signature="5885:5966" ph="SELECT * FRO... notices" />
+            <marker date="1492686173310" expanded="true" signature="4887:4954" ph="SELECT * FRO... notices" />
+            <marker date="1492686173310" expanded="true" signature="5877:5958" ph="SELECT * FRO... notices" />
           </folding>
         </state>
       </provider>
@@ -840,11 +839,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="91" column="43" lean-forward="false" selection-start-line="91" selection-start-column="43" selection-end-line="91" selection-end-column="43" />
+        <state relative-caret-position="61">
+          <caret line="69" column="46" lean-forward="false" selection-start-line="69" selection-start-column="46" selection-end-line="69" selection-end-column="46" />
           <folding>
-            <marker date="1492686027128" expanded="true" signature="4873:4940" ph="SELECT * FRO... notices" />
-            <marker date="1492686027128" expanded="true" signature="5885:5966" ph="SELECT * FRO... notices" />
+            <marker date="1492686173310" expanded="true" signature="4887:4954" ph="SELECT * FRO... notices" />
+            <marker date="1492686173310" expanded="true" signature="5877:5958" ph="SELECT * FRO... notices" />
           </folding>
         </state>
       </provider>
