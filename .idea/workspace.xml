@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/navbar-top.php" afterPath="$PROJECT_DIR$/inc/navbar-top.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db-config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +32,7 @@
       <file leaf-file-name="departments.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/departments.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
+            <state relative-caret-position="1155">
               <caret line="77" column="45" lean-forward="false" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
               <folding>
                 <marker date="1492672666834" expanded="true" signature="188:232" ph="SELECT * FRO... departments" />
@@ -55,17 +57,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="77" column="96" lean-forward="false" selection-start-line="77" selection-start-column="96" selection-end-line="77" selection-end-column="96" />
+            <state relative-caret-position="78">
+              <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
               <folding>
                 <marker date="1492676830244" expanded="true" signature="3038:3106" ph="SELECT * FRO... departments" />
                 <marker date="1492676830244" expanded="true" signature="3542:3612" ph="SELECT * FRO... departments" />
                 <marker date="1492676830244" expanded="true" signature="4044:4113" ph="SELECT * FRO... departments" />
                 <marker date="1492676830244" expanded="true" signature="4548:4622" ph="SELECT * FRO... departments" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db-config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db-config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,7 +119,6 @@
         <option value="$PROJECT_DIR$/phpMyAdmin/config.inc.php" />
         <option value="$PROJECT_DIR$/document-upload.php" />
         <option value="$PROJECT_DIR$/inc/main-slider.php" />
-        <option value="$PROJECT_DIR$/db-config.php" />
         <option value="$PROJECT_DIR$/bin/addDepartments.php" />
         <option value="$PROJECT_DIR$/admin/departments.php" />
         <option value="$PROJECT_DIR$/admin/pages.php" />
@@ -110,6 +131,8 @@
         <option value="$PROJECT_DIR$/pages.php" />
         <option value="$PROJECT_DIR$/departments.php" />
         <option value="$PROJECT_DIR$/inc/navbar-top.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/db-config.php" />
       </list>
     </option>
   </component>
@@ -279,12 +302,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492603662216</updated>
       <workItem from="1492603663985" duration="23049000" />
-      <workItem from="1492653582857" duration="11055000" />
+      <workItem from="1492653582857" duration="11518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34104000" />
+    <option name="totallyTimeSpent" value="34567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="0" />
@@ -458,14 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db-config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -625,7 +640,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/departments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
+        <state relative-caret-position="1155">
           <caret line="77" column="45" lean-forward="false" selection-start-line="77" selection-start-column="45" selection-end-line="77" selection-end-column="45" />
           <folding>
             <marker date="1492672666834" expanded="true" signature="188:232" ph="SELECT * FRO... departments" />
@@ -639,14 +654,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="77" column="96" lean-forward="false" selection-start-line="77" selection-start-column="96" selection-end-line="77" selection-end-column="96" />
+        <state relative-caret-position="78">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
             <marker date="1492676830244" expanded="true" signature="3038:3106" ph="SELECT * FRO... departments" />
             <marker date="1492676830244" expanded="true" signature="3542:3612" ph="SELECT * FRO... departments" />
             <marker date="1492676830244" expanded="true" signature="4044:4113" ph="SELECT * FRO... departments" />
             <marker date="1492676830244" expanded="true" signature="4548:4622" ph="SELECT * FRO... departments" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
