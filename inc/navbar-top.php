@@ -57,25 +57,25 @@ $f = new Functions();
                         <li class="dropdown-header">Core Engineering/Design</li>
                         <?php
                             $str = "SELECT * FROM `departments` WHERE `type`='core' ORDER BY `title` ASC";
-                            $rows = $f->selectQueries($str);
-                            foreach ($rows as $row){
-                                echo '<li><a href="departments.php?code='.$row['code'].'">'.$row['title'].'</a></li>';
+                            $cores = $f->selectQueries($str);
+                            foreach ($cores as $core){
+                                echo '<li><a href="departments.php?code='.$core['code'].'">'.$core['title'].'</a></li>';
                             }
                         ?>
                         <li class="dropdown-header">Allied Engineering</li>
                         <?php
                         $str = "SELECT * FROM `departments` WHERE `type`='allied' ORDER BY `title` ASC";
-                        $rows = $f->selectQueries($str);
-                        foreach ($rows as $row){
-                            echo '<li><a href="departments.php?code='.$row['code'].'">'.$row['title'].'</a></li>';
+                        $allieds = $f->selectQueries($str);
+                        foreach ($allieds as $allied){
+                            echo '<li><a href="departments.php?code='.$allied['code'].'">'.$allied['title'].'</a></li>';
                         }
                         ?>
                         <li class="dropdown-header">Basic Sciences & HSS</li>
                         <?php
                         $str = "SELECT * FROM `departments` WHERE `type`='basic' ORDER BY `title` ASC";
-                        $rows = $f->selectQueries($str);
-                        foreach ($rows as $row){
-                            echo '<li><a href="departments.php?code='.$row['code'].'">'.$row['title'].'</a></li>';
+                        $basics = $f->selectQueries($str);
+                        foreach ($basics as $basic){
+                            echo '<li><a href="departments.php?code='.$basic['code'].'">'.$basic['title'].'</a></li>';
                         }
                         ?>
                         <li class="dropdown-header">Humanities & Social Sciences</li>
