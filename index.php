@@ -89,7 +89,7 @@
                       <li role="presentation"><a href="#">Tenders</a></li>
                   </ul>
                   <br>
-                  <div>
+                  <div class="text-overflow">
                       <ul class="text-left list-unstyled">
                       <?php
                       $str = "SELECT * FROM `notices` WHERE `type`='notice' ORDER BY `created_at` DESC LIMIT 10";
