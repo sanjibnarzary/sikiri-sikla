@@ -75,18 +75,26 @@
 
       <div class="well-lg" id="content">
 		<div class="row" id="main-content">
-            <div class="col-md-8 text-justify">
+            <div class="col-md-8 text-left">
 
                 <?php
                     if(!isset($_GET['id'])){
-                        echo '<table class="table table-bordered">';
-                        echo '<thead><td><b>Notice</b></td></thead>';
+                        ?>
+                        <ul class="nav nav-tabs">
+                            <li role="presentation" class="active"><a href="#">Notices</a></li>
+                            <li role="presentation"><a href="#">News & Events</a></li>
+                            <li role="presentation"><a href="#">Tenders</a></li>
+                        </ul>
+                        <br>
+                <?php
+                        echo '<ul class="list-unstyled">';
+                        echo '';
                         $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
                         $notices = $f->selectQueries($str);
                         foreach ($notices as $notice){
-                            echo '<tr><td><a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></td></tr>';
+                            echo '<li><a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></li><br>';
                         }
-                        echo '</table>';
+                        echo '</ul>';
                     }
                 ?>
                 <div class="well-sm"><h1>
@@ -119,16 +127,7 @@
             </div>
 		</div>
           <br>
-          <div class="row">
-              <div class="col-md-8">
-                  <ul class="nav nav-tabs">
-                      <li role="presentation" class="active"><a href="#">Announcements</a></li>
-                      <li role="presentation"><a href="#">News & Events</a></li>
-                      <li role="presentation"><a href="#">Tenders</a></li>
-                  </ul>
-              </div>
-              <div class="col-md-4"></div>
-          </div>
+          
       </div>
 		
       <div class="center-block text-center" id="footer">
