@@ -28,7 +28,7 @@
             VALUES ('".$title."','".$body."','".$notice_type."','".$file_name."','".$dept_type."','".$circulation."','".$user."',NOW(),NOW())";
         }else if ($type =='update'){
             $pid = $_POST['id'];
-            $str = "UPDATE `notices` SET `title`='".$title."',`type`='".$dept_type."',`body`='".$body."',".$s."`updated_by`='".$user."',`updated_at`=NOW() WHERE id='".$pid."'";
+            $str = "UPDATE `notices` SET `title`='".$title."',`type`='".$notice_type."',`dept_code`='".$dept_type."',`body`='".$body."',".$s."`updated_by`='".$user."',`updated_at`=NOW() WHERE id='".$pid."'";
             //echo $str;
         }
         if(redirectSecurely($str)){
