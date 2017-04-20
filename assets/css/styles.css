@@ -1,0 +1,14 @@
+#footer-fixed {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:25px;
+   width:100%;  
+   background-color:#ffffff;
+}
+#content,.parallel-corpus{
+	margin-bottom:35px;
+}
+#main-content{
+   margin-top: -40px;
+}
