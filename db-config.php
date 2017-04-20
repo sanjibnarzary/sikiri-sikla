@@ -1,6 +1,6 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_USER','sn');
+define('DB_USER','root');
 define('DB_PASS','abc@123');
 define('DB_BASE','cit_kokrajhar');
 define('DB_PORT',3306);
