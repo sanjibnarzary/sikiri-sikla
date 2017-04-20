@@ -3,10 +3,10 @@
     $f=new Functions();
     //$row = [];
     if(isset($_GET['code'])){
-        $code = $_GET['code'];
+        $code = trim($_GET['code']);
         //echo $code;
         $str = "SELECT * FROM `departments` WHERE `code` = '".$code."' LIMIT 1";
-        $dept = $f->selectQuery($str);
+        $depts = $f->selectQuery($str);
         //print_r($dept['code']);
     }
     else{
@@ -32,7 +32,7 @@
 
     <link rel="icon" href="../../favicon.ico">
 
-    <title><?php echo $dept['title']?></title>
+    <title><?php echo $depts['title']?></title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
@@ -75,9 +75,9 @@
 
       <div class="well-lg" id="content">
 		<div class="row" id="main-content">
-            <div class="col-md-8">
+            <div class="col-md-8 text-justify">
                 <?php
-                    echo $dept['body'];
+                    echo $depts['body'];
                 ?>
             </div>
             <div class="col-md-4">
