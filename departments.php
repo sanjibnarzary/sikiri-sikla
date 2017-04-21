@@ -81,16 +81,16 @@
                 ?>
             </div>
             <div class="col-md-4">
-                <div class="alert alert-info"><b>Notices</b></div>
-                <ul class="text-left list-unstyled">
-                    <?php
-                    $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
-                    $notices = $f->selectQueries($str);
-                    foreach ($notices as $notice){
-                        echo '<li><i class="glyphicon glyphicon-bullhorn"></i> <a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></li>';
-                    }
-                    ?>
-                </ul>
+                <div class="alert alert-info"><b>Navigation</b></div>
+                <div>
+                    <ul class="list-unstyled">
+                        <li class=""><a href="departments.php?code=<?php echo $depts['code'];?>">About</a></li>
+                        <li class=""><a href="#">Faculties</a></li>
+                        <li class=""><a href="#">Staffs</a></li>
+                        <li class=""><a href="#">Facilities</a></li>
+
+                    </ul>
+                </div>
             </div>
 		</div>
           <br>
@@ -100,6 +100,16 @@
                       <li role="presentation" class="active"><a href="#">Announcements</a></li>
                       <li role="presentation"><a href="#">News & Events</a></li>
                       <li role="presentation"><a href="#">Tenders</a></li>
+                  </ul>
+                  <br>
+                  <ul class="text-left list-unstyled">
+                      <?php
+                      $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
+                      $notices = $f->selectQueries($str);
+                      foreach ($notices as $notice){
+                          echo '<li><i class="glyphicon glyphicon-bullhorn"></i> <a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></li>';
+                      }
+                      ?>
                   </ul>
               </div>
               <div class="col-md-4"></div>

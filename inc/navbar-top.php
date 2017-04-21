@@ -56,12 +56,13 @@ $f = new Functions();
                     <ul class="dropdown-menu">
                         <li class="dropdown-header">Core Engineering/Design</li>
                         <?php
-                            $str = "SELECT * FROM `departments` WHERE `type`='core' ORDER BY `title` ASC";
+                            $str = "SELECT * FROM `departments` WHERE `type`='core' AND `code`!='mcd' ORDER BY `title` ASC";
                             $cores = $f->selectQueries($str);
                             foreach ($cores as $core){
                                 echo '<li><a href="departments.php?code='.$core['code'].'">'.$core['title'].'</a></li>';
                             }
                         ?>
+                        <li><a href="http://cit-mcd.in">Multimedia Communication and Design</a></li>
                         <li class="dropdown-header">Allied Engineering</li>
                         <?php
                         $str = "SELECT * FROM `departments` WHERE `type`='allied' ORDER BY `title` ASC";
