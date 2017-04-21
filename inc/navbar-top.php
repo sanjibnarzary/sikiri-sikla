@@ -59,7 +59,7 @@ $f = new Functions();
                             $str = "SELECT * FROM `departments` WHERE `type`='core' AND `code`!='mcd' ORDER BY `title` ASC";
                             $cores = $f->selectQueries($str);
                             foreach ($cores as $core){
-                                echo '<li><a href="/'.$core['code'].'">'.$core['title'].'</a></li>';
+                                echo '<li><a href="/department/'.$core['code'].'">'.$core['title'].'</a></li>';
                             }
                         ?>
                         <li><a href="http://cit-mcd.in">Multimedia Communication and Design</a></li>
@@ -68,7 +68,7 @@ $f = new Functions();
                         $str = "SELECT * FROM `departments` WHERE `type`='allied' ORDER BY `title` ASC";
                         $allieds = $f->selectQueries($str);
                         foreach ($allieds as $allied){
-                            echo '<li><a href="departments.php?code='.$allied['code'].'">'.$allied['title'].'</a></li>';
+                            echo '<li><a href="/department/'.$allied['code'].'">'.$allied['title'].'</a></li>';
                         }
                         ?>
                         <li class="dropdown-header">Basic Sciences & HSS</li>
@@ -76,7 +76,7 @@ $f = new Functions();
                         $str = "SELECT * FROM `departments` WHERE `type`='basic' ORDER BY `title` ASC";
                         $basics = $f->selectQueries($str);
                         foreach ($basics as $basic){
-                            echo '<li><a href="departments.php?code='.$basic['code'].'">'.$basic['title'].'</a></li>';
+                            echo '<li><a href="/department/'.$basic['code'].'">'.$basic['title'].'</a></li>';
                         }
                         ?>
                         <li class="dropdown-header">Humanities & Social Sciences</li>
@@ -84,7 +84,7 @@ $f = new Functions();
                         $str = "SELECT * FROM `departments` WHERE `type`='humanities' ORDER BY `title` ASC";
                         $rows = $f->selectQueries($str);
                         foreach ($rows as $row){
-                            echo '<li><a href="departments.php?code='.$row['code'].'">'.$row['title'].'</a></li>';
+                            echo '<li><a href="/department/'.$row['code'].'">'.$row['title'].'</a></li>';
                         }
                         ?>
                     </ul>
