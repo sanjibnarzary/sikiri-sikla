@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/departments.php" afterPath="$PROJECT_DIR$/departments.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/navbar-top.php" afterPath="$PROJECT_DIR$/inc/navbar-top.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,19 +16,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pages.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="92" column="21" lean-forward="false" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
-              <folding>
-                <marker date="1492670596610" expanded="true" signature="176:232" ph="SELECT * FRO... pages" />
-                <marker date="1492670596610" expanded="true" signature="3034:3101" ph="SELECT * FRO... notices" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="departments.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/departments.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -134,7 +122,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="159">
@@ -149,11 +137,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robots.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -201,7 +199,6 @@
         <option value="$PROJECT_DIR$/admin/departments.php" />
         <option value="$PROJECT_DIR$/admin/pages.php" />
         <option value="$PROJECT_DIR$/bin/addPages.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/admin/notices.php" />
         <option value="$PROJECT_DIR$/pages.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -212,6 +209,8 @@
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/departments.php" />
         <option value="$PROJECT_DIR$/inc/navbar-top.php" />
+        <option value="$PROJECT_DIR$/robots.txt" />
+        <option value="$PROJECT_DIR$/.htaccess" />
       </list>
     </option>
   </component>
@@ -409,12 +408,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492603662216</updated>
       <workItem from="1492603663985" duration="23049000" />
-      <workItem from="1492653582857" duration="18256000" />
+      <workItem from="1492653582857" duration="19368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41305000" />
+    <option name="totallyTimeSpent" value="42417000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="0" />
@@ -659,14 +658,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin/fileUploadProcess.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="499">
@@ -814,6 +805,22 @@
             <marker date="1492760760601" expanded="true" signature="4163:4232" ph="SELECT * FRO... departments" />
             <marker date="1492760760601" expanded="true" signature="4667:4741" ph="SELECT * FRO... departments" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robots.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="48" lean-forward="false" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -3,4 +3,8 @@ RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
-RewriteRule ^([a-zA-Z0-9])/?$ pages.php?p=$1
+RewriteCond %{SERVER_PORT} 80
+
+RewriteRule ^(.*)$ https://cit.ac.in/$1 [R,L]
+
+RewriteRule ^([a-zA-Z0-9])/?$ https://cit.ac.in/pages.php?p=$1
