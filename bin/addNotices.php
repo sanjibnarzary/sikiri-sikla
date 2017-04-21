@@ -81,7 +81,8 @@
         } else {
             if (move_uploaded_file($notice_file["tmp_name"], $target_file)) {
                 echo "The file ". basename( $notice_file["name"]). " has been uploaded.";
-                return $dt.basename( $notice_file["name"]);
+                //return $dt.basename( $notice_file["name"]);
+                return $dt . basename(str_replace(' ','-',$notice_file["name"]))
                 //header('Location: ../document-upload.php?status=success');
             } else {
                 echo "Sorry, there was an error uploading your file.";

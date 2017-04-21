@@ -31,7 +31,7 @@ $f = new Functions();
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-education"></i> Academic <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="pages.php?p=about-us">About CIT</a></li>
+                        <li><a href="about-us">About CIT</a></li>
                         <li><a href="#">Diploma</a></li>
                         <li><a href="#">Undergraduate</a></li>
                     </ul>
@@ -40,8 +40,8 @@ $f = new Functions();
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-bell"></i> Management <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li class="dropdown-header">Administration</li>
-                        <li><a href="pages.php?p=director">Director</a></li>
-                        <li><a href="pages.php?p=registrar">Registrar</a></li>
+                        <li><a href="/director">Director</a></li>
+                        <li><a href="/registrar">Registrar</a></li>
                         <li><a href="#">Board of Governors</a></li>
                         <li><a href="#">CIT Society</a></li>
                         <li><a href="#">Head/Co-ordinator of Department/Section</a></li>
@@ -59,7 +59,7 @@ $f = new Functions();
                             $str = "SELECT * FROM `departments` WHERE `type`='core' AND `code`!='mcd' ORDER BY `title` ASC";
                             $cores = $f->selectQueries($str);
                             foreach ($cores as $core){
-                                echo '<li><a href="departments.php?code='.$core['code'].'">'.$core['title'].'</a></li>';
+                                echo '<li><a href="/'.$core['code'].'">'.$core['title'].'</a></li>';
                             }
                         ?>
                         <li><a href="http://cit-mcd.in">Multimedia Communication and Design</a></li>
