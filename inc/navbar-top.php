@@ -23,7 +23,7 @@ $f = new Functions();
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="./">CIT Kokrajhar <sup>&alpha;</sup></a>
+            <a class="navbar-brand" href="/">CIT Kokrajhar <sup>&alpha;</sup></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
@@ -31,7 +31,7 @@ $f = new Functions();
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-education"></i> Academic <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="about-us">About CIT</a></li>
+                        <li><a href="/about-us">About CIT</a></li>
                         <li><a href="#">Diploma</a></li>
                         <li><a href="#">Undergraduate</a></li>
                     </ul>
