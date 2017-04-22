@@ -69,8 +69,8 @@
                 <div class="alert alert-info"><b>Navigation</b></div>
                 <div>
                     <ul class="list-unstyled">
-                        <li class=""><a href="departments.php?code=<?php echo $depts['code'];?>">About</a></li>
-                        <li class=""><a href="#">Faculties</a></li>
+                        <li class=""><a href="/department/<?php echo $depts['code'];?>">About</a></li>
+                        <li class=""><a href="/department/<?php echo $depts['code'];?>/faculty">Faculties</a></li>
                         <li class=""><a href="#">Staffs</a></li>
                         <li class=""><a href="#">Facilities</a></li>
 

@@ -9,9 +9,9 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img src="./assets/img/slider-1.jpg" class="img-rounded" alt="...">
+            <img src="/assets/img/slider-1.jpg" class="img-rounded" alt="...">
             <div class="carousel-caption">
-                CIT Kokrajhar
+
             </div>
         </div>
         <div class="item">
