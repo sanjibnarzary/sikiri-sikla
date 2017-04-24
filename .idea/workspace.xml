@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/blue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/a22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/b05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/blue.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/c-navigator-horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/c-phone-horizontal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/c-slide-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/c-slide-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/hand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/purple.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/img/red.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/js/jssor.slider-23.1.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/jslider/standard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/styles.css" afterPath="$PROJECT_DIR$/assets/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/headers.php" afterPath="$PROJECT_DIR$/inc/headers.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/main-slider.php" afterPath="$PROJECT_DIR$/inc/main-slider.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/scripts.php" afterPath="$PROJECT_DIR$/inc/scripts.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -37,15 +17,15 @@
       <file leaf-file-name="main-slider.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/main-slider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+            <state relative-caret-position="210">
+              <caret line="14" column="109" lean-forward="false" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
@@ -366,12 +346,12 @@
       <workItem from="1492603663985" duration="23049000" />
       <workItem from="1492653582857" duration="23281000" />
       <workItem from="1492864370302" duration="6178000" />
-      <workItem from="1493017683275" duration="7448000" />
+      <workItem from="1493017683275" duration="8290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59956000" />
+    <option name="totallyTimeSpent" value="60798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -910,15 +890,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/main-slider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+        <state relative-caret-position="210">
+          <caret line="14" column="109" lean-forward="false" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#!!top" expanded="true" />

@@ -12,12 +12,12 @@
         <div>
             <img data-u="image" src="/assets/js/jslider/img/red.jpg" />
             <!-- <div style="position:absolute;top:30px;left:30px;width:480px;height:120px;z-index:0;font-size:25px;color:#ffffff;line-height:40px;">Computer Science & Engineering</div> //-->
-            <div style="position:absolute;top:300px;left:30px;width:480px;height:120px;z-index:0;font-size:20px;color:#ffffff;line-height:40px;">Computer Science & Engineering</div>
+            <div style="position:absolute;top:300px;left:30px;width:480px;height:120px;z-index:0;font-size:25px;color:#ffffff;line-height:40px;"><a style="text-decoration: none;color: #0f0f0f;" href="/department/cse">Computer Science & Engineering</a></div>
             <div style="position:absolute;top:120px;left:650px;width:470px;height:220px;z-index:0;">
                 <img style="position:absolute;top:0px;left:0px;width:470px;height:220px;z-index:0;" src="/assets/js/jslider/img/c-phone-horizontal.png" />
                 <div style="position:absolute;top:4px;left:45px;width:379px;height:213px;z-index:0; overflow:hidden;">
                     <img data-u="caption" data-t="0" style="position:absolute;top:0px;left:0px;width:379px;height:213px;z-index:0;" src="/assets/img/unix-logo.png" />
-                    <img data-u="caption" data-t="1" style="position:absolute;top:0px;left:379px;width:379px;height:213px;z-index:0;" src="/assets/img/linuxlogo.png" />
+                    <img data-u="caption" data-t="1" style="position:absolute;top:0px;left:379px;width:379px;height:213px;z-index:0;" src="/assets/img/cse-banner.png" />
                 </div>
                 <img style="position:absolute;top:4px;left:45px;width:379px;height:213px;z-index:0;" src="/assets/js/jslider/img/c-navigator-horizontal.png" />
                 <img data-u="caption" data-t="2" style="position:absolute;top:476px;left:454px;width:63px;height:77px;z-index:0;" src="/assets/js/jslider/img/hand.png" />
