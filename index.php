@@ -58,7 +58,7 @@
                     $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
                     $notices = $f->selectQueries($str);
                     foreach ($notices as $notice){
-                        echo '<li><i class="glyphicon glyphicon-bullhorn"></i> <a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></li><br>';
+                        echo '<li><i class="glyphicon glyphicon-bullhorn"></i> <a href="notices/'.$notice['id'].'">'.$notice['title'].'</a></li><br>';
                     }
                     ?>
                 </ul>
@@ -68,22 +68,24 @@
           <div class="row">
               <div class="col-md-8">
                   <ul class="nav nav-tabs">
-                      <li role="presentation" class="active"><a href="#">Announcements</a></li>
-                      <li role="presentation"><a href="#">News & Events</a></li>
-                      <li role="presentation"><a href="#">Tenders</a></li>
+                      <li role="presentation" class="active"><a href="/notices/type/notice">Notices</a></li>
+                      <li role="presentation" class="<?php if($show==4) echo 'active';?>"><a href="/notices/type/event">News & Events</a></li>
+                      <li role="presentation" class="<?php if($show==5) echo 'active';?>"><a href="/notices/type/tender">Tenders</a></li>
                   </ul>
                   <br>
                   <div>
                       <ul class="text-left list-unstyled">
-                      <?php
-                      $str = "SELECT * FROM `notices` WHERE `type`='notice' ORDER BY `created_at` DESC LIMIT 10";
-                      $notices = $f->selectQueries($str);
-                      foreach ($notices as $notice){
-                          echo '<li><i class="glyphicon glyphicon-check"></i> <a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></li>';
-                      }
-                      ?>
+                          <?php
+                          $str = "SELECT * FROM `notices` WHERE `type`='notice' ORDER BY `created_at` DESC LIMIT 10";
+                          $notices = $f->selectQueries($str);
+                          foreach ($notices as $notice){
+                              echo '<li><i class="glyphicon glyphicon-check"></i> <a href="/notices/'.$notice['id'].'">'.$notice['title'].'</a></li>';
+                          }
+                          ?>
                       </ul>
                   </div>
+
+
               </div>
               <div class="col-md-4"></div>
           </div>

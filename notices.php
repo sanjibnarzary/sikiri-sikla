@@ -3,14 +3,36 @@
     $f=new Functions();
     //$row = [];
     if(isset($_GET['id'])){
+        $show = 1;
         $id = trim($_GET['id']);
         //echo $code;
         $str = "SELECT * FROM `notices` WHERE `id` = '".$id."' LIMIT 1";
         $notices = $f->selectQuery($str);
         //print_r($notice['code']);
+    }elseif (isset($_GET['type'])){
+        $show = 2;
+        $notice_type=trim($_GET['type']);
+        if($notice_type=='notice'){
+            $show=3;
+            $str = "SELECT * FROM `notices` WHERE `type` = '".$notice_type."' ORDER BY `created_at` DESC LIMIT 40";
+            $notices = $f->selectQueries($str);
+            //print_r($str.'<br><br>');
+        }
+        elseif ($notice_type =='event'){
+            $show=4;
+            $str = "SELECT * FROM `notices` WHERE `type` = '".$notice_type."' ORDER BY `created_at` DESC LIMIT 40";
+            $notices = $f->selectQueries($str);
+        }
+        elseif ($notice_type=='tender'){
+            $show=5;
+            $str = "SELECT * FROM `notices` WHERE `type` = '".$notice_type."' ORDER BY `created_at` DESC LIMIT 40";
+            $notices = $f->selectQueries($str);
+        }
     }
     else{
         //echo 'Visit Departments';
+        $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 40";
+        $notices = $f->selectQueries($str);
     }
 ?>
 <!DOCTYPE html>
@@ -64,21 +86,26 @@
                 <?php
                     if(!isset($_GET['id'])){
                         ?>
-                        <ul class="nav nav-tabs">
-                            <li role="presentation" class="active"><a href="#">Notices</a></li>
-                            <li role="presentation"><a href="#">News & Events</a></li>
-                            <li role="presentation"><a href="#">Tenders</a></li>
-                        </ul>
-                        <br>
+
+                <?php
+
+                            ?>
+
+                            <ul class="nav nav-tabs">
+                                <li role="presentation" class="<?php if($show==3) echo 'active';?>"><a href="/notices/type/notice">Notices</a></li>
+                                <li role="presentation" class="<?php if($show==4) echo 'active';?>"><a href="/notices/type/event">News & Events</a></li>
+                                <li role="presentation" class="<?php if($show==5) echo 'active';?>"><a href="/notices/type/tender">Tenders</a></li>
+                            </ul>
+                            <br>
                 <?php
                         echo '<ul class="list-unstyled">';
-                        echo '';
-                        $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
-                        $notices = $f->selectQueries($str);
-                        foreach ($notices as $notice){
-                            echo '<li><a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></li><br>';
-                        }
-                        echo '</ul>';
+                        //print_r($notices);
+                            foreach ($notices as $notice){
+                                //print_r();
+                                echo '<li><a href="/notices/'.$notice['id'].'">'.$notice['title'].'</a>'.' <sub>published on '.date('l, F jS, Y',strtotime($notice['created_at'])).'</sub></li><br>';
+                            }
+                            echo '</ul>';
+
                     }
                 ?>
                 <div class="well-sm"><h1>
@@ -104,7 +131,7 @@
                     $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
                     $notices = $f->selectQueries($str);
                     foreach ($notices as $notice){
-                        echo '<li><i class="glyphicon glyphicon-bullhorn"></i> <a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></li>';
+                        echo '<li><i class="glyphicon glyphicon-bullhorn"></i> <a href="/notices/'.$notice['id'].'">'.$notice['title'].'</a></li>';
                     }
                     ?>
                 </ul>
