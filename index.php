@@ -94,7 +94,13 @@
       </div>
 		
       <div class="center-block text-center" id="footer">
-	  &copy; 19 April, 2017 - <?php echo date('d F, Y');?> Central Institute of Technology Kokrajhar
+	  &copy; 19 April, 2017 - <?php echo date('d F, Y');?> Central Institute of Technology Kokrajhar<br>
+          Visitor <?php
+
+            require_once ('visitor-counter.php');
+
+
+          ?>
 	  </div>
     </div> <!-- /container -->
 
