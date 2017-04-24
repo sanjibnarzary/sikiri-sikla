@@ -46,11 +46,12 @@
 
       <div class="well-lg text-center" id="content">
 		<div class="row" id="main-content">
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <?php
                     include ('inc/main-slider.php');
                 ?>
             </div>
+            <!--
             <div class="col-md-4 text-overflow">
                 <div class="alert alert-info"><b>Notices</b></div>
                 <ul class="text-left list-unstyled">
@@ -63,6 +64,7 @@
                     ?>
                 </ul>
             </div>
+            //-->
 		</div>
           <br>
           <div class="row">

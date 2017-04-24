@@ -6,3 +6,7 @@
 <script src="/assets/js/bootstrap.min.js"></script>
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+<script src="/assets/js/jslider/js/jssor.slider-23.1.5.min.js"></script>
+<script src="/assets/js/scripts.js"></script>
+<script type="text/javascript">jssor_1_slider_init();</script>
