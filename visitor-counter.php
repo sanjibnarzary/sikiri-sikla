@@ -16,7 +16,7 @@
 
     if(!isset($_SESSION['hasVisited'])){
         $_SESSION['hasVisited']="yes";
-        $counterVal++;
+        $counterVal = $counterVal+1;
         $f = fopen($counter_name, "w");
         fwrite($f, $counterVal);
         fclose($f);
