@@ -32,8 +32,9 @@ $f = new Functions();
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-education"></i> Academic <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="/about-us">About CIT</a></li>
-                        <li><a href="#">Diploma</a></li>
-                        <li><a href="#">Undergraduate</a></li>
+                        <li><a href="/mission-vision">Mission & Vision</a></li>
+                        <li><a href="/contact-us">Contact US</a></li>
+                        <li><a href="/facilities">Facilities</a></li>
                     </ul>
                 </li>
                 <li class="dropdown">
