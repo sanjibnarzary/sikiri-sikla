@@ -94,11 +94,10 @@ $f = new Functions();
                     <a href="http://admission.cit.ac.in" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-certificate"></i> Admission <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li class="dropdown-header">Diploma</li>
-                        <li><a href="#">CITEE</a></li>
-                        <li><a href="#">PAT</a></li>
+                        <li><a href="/citee">CITEE</a></li>
                         <li class="dropdown-header">B.Tech</li>
-                        <li><a href="#">CITDEE</a></li>
-                        <li><a href="#">CITLET</a></li>
+                        <li><a href="/citdee">CITDEE</a></li>
+                        <li><a href="/citlet">CITLET</a></li>
                         <li><a href="#">CITVAT</a></li>
 
                         <li class="dropdown-header">B.Des</li>
