@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/ascitext-author.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counter.txt" afterPath="$PROJECT_DIR$/counter.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/notices.php" afterPath="$PROJECT_DIR$/notices.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,12 +20,22 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="94" column="6" lean-forward="false" selection-start-line="94" selection-start-column="6" selection-end-line="100" selection-end-column="12" />
+            <state relative-caret-position="300">
+              <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
               <folding>
-                <marker date="1493130028479" expanded="true" signature="3998:4065" ph="SELECT * FRO... notices" />
-                <marker date="1493130028479" expanded="true" signature="5149:5230" ph="SELECT * FRO... notices" />
+                <marker date="1493133991703" expanded="true" signature="4044:4111" ph="SELECT * FRO... notices" />
+                <marker date="1493133991703" expanded="true" signature="5195:5276" ph="SELECT * FRO... notices" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ascitext-author.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/ascitext-author.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -69,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/counter.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -111,16 +123,6 @@
                 <marker date="1493128976370" expanded="true" signature="4216:4285" ph="SELECT * FRO... departments" />
                 <marker date="1493128976370" expanded="true" signature="4711:4785" ph="SELECT * FRO... departments" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -206,12 +208,13 @@
         <option value="$PROJECT_DIR$/visitor-counter.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/inc/navbar-top.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/inc/footer-info.php" />
         <option value="$PROJECT_DIR$/departments.php" />
         <option value="$PROJECT_DIR$/pages.php" />
         <option value="$PROJECT_DIR$/peoples.php" />
         <option value="$PROJECT_DIR$/notices.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/inc/ascitext-author.php" />
         <option value="$PROJECT_DIR$/counter.txt" />
       </list>
     </option>
@@ -386,12 +389,12 @@
       <workItem from="1492653582857" duration="23281000" />
       <workItem from="1492864370302" duration="6178000" />
       <workItem from="1493017683275" duration="12602000" />
-      <workItem from="1493101389811" duration="7548000" />
+      <workItem from="1493101389811" duration="8786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72658000" />
+    <option name="totallyTimeSpent" value="73896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -435,14 +438,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/inc/headers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
@@ -591,8 +586,8 @@
         <state relative-caret-position="1125">
           <caret line="75" column="34" lean-forward="false" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
           <folding>
-            <marker date="1493130028479" expanded="true" signature="3998:4065" ph="SELECT * FRO... notices" />
-            <marker date="1493130028479" expanded="true" signature="5149:5230" ph="SELECT * FRO... notices" />
+            <marker date="1493133991703" expanded="true" signature="4044:4111" ph="SELECT * FRO... notices" />
+            <marker date="1493133991703" expanded="true" signature="5195:5276" ph="SELECT * FRO... notices" />
           </folding>
         </state>
       </provider>
@@ -836,17 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="94" column="6" lean-forward="false" selection-start-line="94" selection-start-column="6" selection-end-line="100" selection-end-column="12" />
-          <folding>
-            <marker date="1493130028479" expanded="true" signature="3998:4065" ph="SELECT * FRO... notices" />
-            <marker date="1493130028479" expanded="true" signature="5149:5230" ph="SELECT * FRO... notices" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/departments.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -903,10 +887,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" lean-forward="false" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding>
+            <marker date="1493133991703" expanded="true" signature="4044:4111" ph="SELECT * FRO... notices" />
+            <marker date="1493133991703" expanded="true" signature="5195:5276" ph="SELECT * FRO... notices" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/ascitext-author.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/counter.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
