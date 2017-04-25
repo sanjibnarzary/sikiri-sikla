@@ -125,16 +125,7 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="alert alert-info"><b>Notices</b></div>
-                <ul class="text-left list-unstyled">
-                    <?php
-                    $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
-                    $notices = $f->selectQueries($str);
-                    foreach ($notices as $notice){
-                        echo '<li><i class="glyphicon glyphicon-bullhorn"></i> <a href="/notices/'.$notice['id'].'">'.$notice['title'].'</a></li>';
-                    }
-                    ?>
-                </ul>
+                
             </div>
 		</div>
           <br>

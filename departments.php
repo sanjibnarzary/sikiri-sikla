@@ -79,6 +79,7 @@
             </div>
 		</div>
           <br>
+          <!--
           <div class="row">
               <div class="col-md-8">
                   <ul class="nav nav-tabs">
@@ -89,16 +90,17 @@
                   <br>
                   <ul class="text-left list-unstyled">
                       <?php
-                      $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
-                      $notices = $f->selectQueries($str);
-                      foreach ($notices as $notice){
-                          echo '<li><i class="glyphicon glyphicon-bullhorn"></i> <a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></li>';
-                      }
-                      ?>
+          $str = "SELECT * FROM `notices` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
+          $notices = $f->selectQueries($str);
+          foreach ($notices as $notice){
+              echo '<li><i class="glyphicon glyphicon-bullhorn"></i> <a href="notices.php?id='.$notice['id'].'">'.$notice['title'].'</a></li>';
+          }
+          ?>
                   </ul>
               </div>
               <div class="col-md-4"></div>
           </div>
+          //-->
       </div>
 		
       <div class="center-block text-center" id="footer">

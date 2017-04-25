@@ -23,10 +23,11 @@
     // If not, increase counter value by one
 
     if(!isset($_SESSION['hasVisited'])){
+        $_SESSION['hasVisited']="yes";
+        $counterVal = $counterVal+1;
 
         try {
-            $_SESSION['hasVisited']="yes";
-            $counterVal = $counterVal+1;
+
             $f = fopen($counter_name, "w") or die('failed to open file 2');
             fwrite($f, $counterVal);
         }
