@@ -58,3 +58,14 @@
         </div>
     </div>
 </div>
+<div class="center-block text-center" id="footer">
+    Visitor - <?php
+
+    require_once ('visitor-counter.php');
+
+
+    ?>
+    <br>
+    Copyright &copy; 19 April, 2017 - <?php echo date('d F, Y');?> Central Institute of Technology Kokrajhar<br>
+    <div class="description" style="font-size: 12px;">Developed & maintained by Department of Computer Science & Engineering, Central Institute of Technology Kokrajhar</div>
+</div>

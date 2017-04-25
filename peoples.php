@@ -147,10 +147,14 @@
           <br>
 
       </div>
-		
-      <div class="center-block text-center" id="footer">
-	  &copy; 19 April, 2017 - <?php echo date('d F, Y');?> Central Institute of Technology Kokrajhar
-	  </div>
+
+      <div>
+
+          <?php
+          include_once ('inc/footer-info.php');
+          ?>
+
+      </div>
     </div> <!-- /container -->
 
 
