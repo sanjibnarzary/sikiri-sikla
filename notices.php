@@ -81,7 +81,7 @@
 
       <div class="well-lg" id="content">
 		<div class="row" id="main-content">
-            <div class="col-md-8 text-left">
+            <div class="col-md-12 text-left">
 
                 <?php
                     if(!isset($_GET['id'])){
@@ -97,14 +97,22 @@
                                 <li role="presentation" class="<?php if($show==5) echo 'active';?>"><a href="/notices/type/tender">Tenders</a></li>
                             </ul>
                             <br>
-                <?php
-                        echo '<ul class="list-unstyled">';
-                        //print_r($notices);
+                        <table class="table table-responsive text-left">
+                            <thead><td>Sl.</td><td width="60%">Title</td><td>File</td><td>Published on</td></thead>
+                            <?php
+                                $counter = 0;
+                            //print_r($notices);
                             foreach ($notices as $notice){
+                                $counter = $counter + 1;
                                 //print_r();
-                                echo '<li><a href="/notices/'.$notice['id'].'">'.$notice['title'].'</a>'.' <sub>published on '.date('l, F jS, Y',strtotime($notice['created_at'])).'</sub></li><br>';
+                                echo '<tr><td>'.$counter.'</td><td><a href="/notices/'.$notice['id'].'">'.$notice['title'].'</a></td>'.'<td>'.(empty($notice['file_path'])?' ':'<a class="btn btn-link" href="/uploads/notices/'.$notice['file_path'].'">Download</a>').'</td> <td>'.date('l, F jS, Y',strtotime($notice['created_at'])).'</td></tr>';
                             }
-                            echo '</ul>';
+
+
+                            ?>
+                        </table>
+
+                <?php
 
                     }
                 ?>
