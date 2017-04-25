@@ -44,7 +44,7 @@
 		//-->
 
 
-      <div class="well-lg text-center" id="content">
+      <div class="well-lg" id="content">
 		<div class="row" id="main-content">
             <div class="col-md-12">
                 <?php
@@ -92,7 +92,13 @@
               <div class="col-md-4"></div>
           </div>
       </div>
-		
+      <div>
+
+          <?php
+            include_once ('inc/footer-info.php');
+          ?>
+
+      </div>
       <div class="center-block text-center" id="footer">
 	  &copy; 19 April, 2017 - <?php echo date('d F, Y');?> Central Institute of Technology Kokrajhar<br>
           Visitor <?php

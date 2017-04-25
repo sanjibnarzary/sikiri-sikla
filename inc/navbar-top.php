@@ -29,7 +29,7 @@ $f = new Functions();
             <ul class="nav navbar-nav">
 
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-education"></i> Academic <span class="caret"></span></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-education"></i> The Institute <span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="/about-us">About CIT</a></li>
                         <li><a href="/mission-vision">Mission & Vision</a></li>
@@ -93,9 +93,9 @@ $f = new Functions();
                 <li class="dropdown">
                     <a href="http://admission.cit.ac.in" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-certificate"></i> Admission <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li class="dropdown-header">Diploma</li>
+                        <li class="dropdown-header">Admission in to Diploma</li>
                         <li><a href="/citee">CITEE</a></li>
-                        <li class="dropdown-header">B.Tech</li>
+                        <li class="dropdown-header">Admission in to B.Tech</li>
                         <li><a href="/citdee">CITDEE</a></li>
                         <li><a href="/citlet">CITLET</a></li>
                         <li><a href="#">CITVAT</a></li>
