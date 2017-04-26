@@ -55,13 +55,13 @@ $f = new Functions();
 
                 <li class="dropdown">
 
-                        <a class="dropdown-toggle" type="button" data-toggle="dropdown" data-submenu>
+                        <a class="dropdown-toggle" role="button" data-toggle="dropdown" data-submenu>
                             <i class="glyphicon glyphicon-education"></i> Academic <span class="caret"></span>
                         </a>
 
                         <ul class="dropdown-menu">
                             <li class="dropdown-submenu">
-                                <a tabindex="0">Departments</a>
+                                <a tabindex="0" role="button"><i class="glyphicon glyphicon-apple"></i> Departments</a>
 
                                 <ul class="dropdown-menu">
 
@@ -103,10 +103,10 @@ $f = new Functions();
                             </li>
 
                             <li class="dropdown-submenu">
-                                <a tabindex="0">Syllabus &amp; Results</a>
+                                <a tabindex="0" role="button"><i class="glyphicon glyphicon-link"></i> Syllabus &amp; Results</a>
 
                                 <ul class="dropdown-menu">
-
+                                            <li class="dropdown-header">Diploma</li>
                                             <li><a href="/syllabus/?dir=Diploma_Syllabus">Diploma Syllabus</a></li>
                                             <li><a href="/syllabus/?dir=course_structure/Diploma">Diploma Course Structures</a></li>
                                             <li class="dropdown-header">Degree</li>

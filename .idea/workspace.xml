@@ -2,78 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/CE/Btech_II_Sem_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/CE/Btech_I_Sem_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/CE/Civil Engineering [CT] 2nd Year Onwardss.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/CSE/Btech_II_Sem_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/CSE/Btech_I_Sem_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/CSE/CSE 2nd Year Onwards.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/ECE/Btech_II_Sem_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/ECE/Btech_I_Sem_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/ECE/ECE 2nd Year Onwards.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/FPT/Btech_II_Sem_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/FPT/Btech_I_Sem_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/FPT/FPT 2nd Year Onwards.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IE/IE_B.Tech._Final.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IE/IE_B.Tech._Final.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/IT_1st sem.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/IT_2nd sem.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/IT_3rd sem.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/IT_4th sem.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/IT_5th sem.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/IT_6th sem.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/IT_7th sem.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/IT_8th sem.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/IT_Overall.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/B_Tech_Syllabus/IT_SYLLABUS/OneNote Table Of Contents.onetoc2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/AMT/SYLLABUS FOR AMT.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/AMT/Sem-II_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/AMT/Sem-I_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CAI/FINAL DIPLOMA SYLLABUS.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CAI/FINAL DIPLOMA SYLLABUS.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CAI/Sem-II_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CAI/Sem-I_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CSE/CSE Diploma Syllabus.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CT/3rd &amp; 5th. course structure.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CT/3rd-5th Syllabus.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CT/4th &amp; 6th Syllabus.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CT/4th &amp; 6th. course structure.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CT/Sem-II_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/CT/Sem-I_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/ECE/Diploma_1st_Syllabus/Sem-I_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/ECE/Diploma_2nd_Syllabus/Sem-II_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/ECE/ECE_III.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/ECE/ECE_IV.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/ECE/ECE_V.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/ECE/ECE_V.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/ECE/ECE_VI.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/FPT/Diploma_1st_Syllabus/Sem-I_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/FPT/Diploma_2nd_Syllabus/Sem-II_Common.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/FPT/FPT_III.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/FPT/FPT_IV.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/FPT/FPT_V.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/FPT/FPT_V.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/Diploma_Syllabus/FPT/FPT_VI.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/B.Tech Course Structure.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Degree/CE_B_Tech.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Degree/CSE_B_Tech.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Degree/ECE_B_Tech.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Degree/FPT_B_Tech.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Degree/IE_B_Tech.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Degree/IT_B_Tech.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Diploma Course Structure.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Diploma/AMT_CT_FPT_CAI_III.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Diploma/AMT_CT_FPT_CAI_IV.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Diploma/AMT_CT_FPT_CAI_V.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Diploma/AMT_CT_FPT_CAI_VI.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Diploma/CO.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/course_structure/Diploma/ETC.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/syllabus/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counter.txt" afterPath="$PROJECT_DIR$/counter.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/headers.php" afterPath="$PROJECT_DIR$/inc/headers.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/navbar-top.php" afterPath="$PROJECT_DIR$/inc/navbar-top.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/scripts.php" afterPath="$PROJECT_DIR$/inc/scripts.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -157,14 +87,14 @@
       <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="105" column="63" lean-forward="false" selection-start-line="105" selection-start-column="63" selection-end-line="105" selection-end-column="63" />
+            <state relative-caret-position="525">
+              <caret line="108" column="79" lean-forward="false" selection-start-line="108" selection-start-column="79" selection-end-line="108" selection-end-column="79" />
               <folding>
-                <element signature="e#5823#5828#0#HTML" expanded="true" />
-                <marker date="1493198993747" expanded="true" signature="3346:3432" ph="SELECT * FRO... departments" />
-                <marker date="1493198993747" expanded="true" signature="4052:4122" ph="SELECT * FRO... departments" />
-                <marker date="1493198993747" expanded="true" signature="4641:4710" ph="SELECT * FRO... departments" />
-                <marker date="1493198993747" expanded="true" signature="5232:5306" ph="SELECT * FRO... departments" />
+                <element signature="e#5934#5939#0#HTML" expanded="true" />
+                <marker date="1493200224843" expanded="true" signature="3402:3488" ph="SELECT * FRO... departments" />
+                <marker date="1493200224843" expanded="true" signature="4108:4178" ph="SELECT * FRO... departments" />
+                <marker date="1493200224843" expanded="true" signature="4697:4766" ph="SELECT * FRO... departments" />
+                <marker date="1493200224843" expanded="true" signature="5288:5362" ph="SELECT * FRO... departments" />
               </folding>
             </state>
           </provider>
@@ -489,12 +419,12 @@
       <workItem from="1492864370302" duration="6178000" />
       <workItem from="1493017683275" duration="12602000" />
       <workItem from="1493101389811" duration="10148000" />
-      <workItem from="1493194327686" duration="3994000" />
+      <workItem from="1493194327686" duration="4919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79252000" />
+    <option name="totallyTimeSpent" value="80177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -558,11 +488,11 @@
         <state relative-caret-position="975">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding>
-            <element signature="e#5823#5828#0#HTML" expanded="true" />
-            <marker date="1493198993747" expanded="true" signature="3346:3432" ph="SELECT * FRO... departments" />
-            <marker date="1493198993747" expanded="true" signature="4052:4122" ph="SELECT * FRO... departments" />
-            <marker date="1493198993747" expanded="true" signature="4641:4710" ph="SELECT * FRO... departments" />
-            <marker date="1493198993747" expanded="true" signature="5232:5306" ph="SELECT * FRO... departments" />
+            <element signature="e#5934#5939#0#HTML" expanded="true" />
+            <marker date="1493200224843" expanded="true" signature="3402:3488" ph="SELECT * FRO... departments" />
+            <marker date="1493200224843" expanded="true" signature="4108:4178" ph="SELECT * FRO... departments" />
+            <marker date="1493200224843" expanded="true" signature="4697:4766" ph="SELECT * FRO... departments" />
+            <marker date="1493200224843" expanded="true" signature="5288:5362" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>
@@ -696,11 +626,11 @@
         <state relative-caret-position="960">
           <caret line="64" column="55" lean-forward="false" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
           <folding>
-            <element signature="e#5823#5828#0#HTML" expanded="true" />
-            <marker date="1493198993747" expanded="true" signature="3346:3432" ph="SELECT * FRO... departments" />
-            <marker date="1493198993747" expanded="true" signature="4052:4122" ph="SELECT * FRO... departments" />
-            <marker date="1493198993747" expanded="true" signature="4641:4710" ph="SELECT * FRO... departments" />
-            <marker date="1493198993747" expanded="true" signature="5232:5306" ph="SELECT * FRO... departments" />
+            <element signature="e#5934#5939#0#HTML" expanded="true" />
+            <marker date="1493200224843" expanded="true" signature="3402:3488" ph="SELECT * FRO... departments" />
+            <marker date="1493200224843" expanded="true" signature="4108:4178" ph="SELECT * FRO... departments" />
+            <marker date="1493200224843" expanded="true" signature="4697:4766" ph="SELECT * FRO... departments" />
+            <marker date="1493200224843" expanded="true" signature="5288:5362" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>
@@ -970,14 +900,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="105" column="63" lean-forward="false" selection-start-line="105" selection-start-column="63" selection-end-line="105" selection-end-column="63" />
+        <state relative-caret-position="525">
+          <caret line="108" column="79" lean-forward="false" selection-start-line="108" selection-start-column="79" selection-end-line="108" selection-end-column="79" />
           <folding>
-            <element signature="e#5823#5828#0#HTML" expanded="true" />
-            <marker date="1493198993747" expanded="true" signature="3346:3432" ph="SELECT * FRO... departments" />
-            <marker date="1493198993747" expanded="true" signature="4052:4122" ph="SELECT * FRO... departments" />
-            <marker date="1493198993747" expanded="true" signature="4641:4710" ph="SELECT * FRO... departments" />
-            <marker date="1493198993747" expanded="true" signature="5232:5306" ph="SELECT * FRO... departments" />
+            <element signature="e#5934#5939#0#HTML" expanded="true" />
+            <marker date="1493200224843" expanded="true" signature="3402:3488" ph="SELECT * FRO... departments" />
+            <marker date="1493200224843" expanded="true" signature="4108:4178" ph="SELECT * FRO... departments" />
+            <marker date="1493200224843" expanded="true" signature="4697:4766" ph="SELECT * FRO... departments" />
+            <marker date="1493200224843" expanded="true" signature="5288:5362" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>
