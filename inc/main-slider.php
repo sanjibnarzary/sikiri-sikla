@@ -7,7 +7,7 @@
     </div>
     <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1300px;height:500px;overflow:hidden;">
         <div>
-            <img data-u="image" src="/assets/img/cit-main.jpg" />
+            <img data-u="image" src="/assets/img/cit-main-image.png" />
         </div>
         <div>
             <img data-u="image" src="/assets/js/jslider/img/red.jpg" />
