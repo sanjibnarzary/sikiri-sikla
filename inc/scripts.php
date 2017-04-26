@@ -9,4 +9,6 @@
 
 <script src="/assets/js/jslider/js/jssor.slider-23.1.5.min.js"></script>
 <script src="/assets/js/scripts.js"></script>
+<script src="/assets/bt-submenu/js/bootstrap-submenu.min.js"></script>
 <script type="text/javascript">jssor_1_slider_init();</script>
+<script type="text/javascript">$('[data-submenu]').submenupicker();</script>
