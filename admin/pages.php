@@ -130,7 +130,7 @@
                 <h5>Pages <a href="pages.php">add new</a></h5>
                 <table class="table table-responsive">
                     <?php
-                        $str = "SELECT * FROM `pages` WHERE 1 LIMIT 10";
+                        $str = "SELECT * FROM `pages` WHERE 1 ORDER BY `created_at` ASC LIMIT 10";
                         $pages = $f->selectQueries($str);
                         foreach ($pages as $page){
                             echo '<tr><td><a href="pages.php?id='.$page['id'].'">'.$page['title'].'</a></td></tr>';

@@ -43,13 +43,15 @@ $f = new Functions();
                         <li class="dropdown-header">Administration</li>
                         <li><a href="/director">Director</a></li>
                         <li><a href="/registrar">Registrar</a></li>
-                        <li><a href="#">Board of Governors</a></li>
-                        <li><a href="#">CIT Society</a></li>
+                        <li><a href="/bog">Board of Governors</a></li>
+                        <li><a href="#/society">CIT Society</a></li>
+                        <!--
                         <li><a href="#">Head/Co-ordinator of Department/Section</a></li>
                         <li><a href="#">Committees</a></li>
                         <li class="dropdown-header">Establishment</li>
                         <li><a href="#">Engineering Cell</a></li>
                         <li><a href="#">Establishment</a></li>
+                        //-->
                     </ul>
                 </li>
 
