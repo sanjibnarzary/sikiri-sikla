@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/pages.php" afterPath="$PROJECT_DIR$/admin/pages.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counter.txt" afterPath="$PROJECT_DIR$/counter.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/navbar-top.php" afterPath="$PROJECT_DIR$/inc/navbar-top.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +48,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="counter.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/counter.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -84,16 +81,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="145" column="29" lean-forward="true" selection-start-line="145" selection-start-column="29" selection-end-line="145" selection-end-column="29" />
+            <state relative-caret-position="285">
+              <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
               <folding>
-                <marker date="1493532343823" expanded="true" signature="3472:3558" ph="SELECT * FRO... departments" />
-                <marker date="1493532343823" expanded="true" signature="4178:4248" ph="SELECT * FRO... departments" />
-                <marker date="1493532343823" expanded="true" signature="4767:4836" ph="SELECT * FRO... departments" />
-                <marker date="1493532343823" expanded="true" signature="5358:5432" ph="SELECT * FRO... departments" />
+                <marker date="1493532539851" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
+                <marker date="1493532539851" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
+                <marker date="1493532539851" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
+                <marker date="1493532539851" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
               </folding>
             </state>
           </provider>
@@ -206,8 +203,8 @@
         <option value="$PROJECT_DIR$/inc/headers.php" />
         <option value="$PROJECT_DIR$/inc/scripts.php" />
         <option value="$PROJECT_DIR$/admin/pages.php" />
-        <option value="$PROJECT_DIR$/inc/navbar-top.php" />
         <option value="$PROJECT_DIR$/counter.txt" />
+        <option value="$PROJECT_DIR$/inc/navbar-top.php" />
       </list>
     </option>
   </component>
@@ -433,12 +430,12 @@
       <workItem from="1493017683275" duration="12602000" />
       <workItem from="1493101389811" duration="10148000" />
       <workItem from="1493194327686" duration="5516000" />
-      <workItem from="1493529108273" duration="757000" />
+      <workItem from="1493529108273" duration="892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81531000" />
+    <option name="totallyTimeSpent" value="81666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -502,10 +499,10 @@
         <state relative-caret-position="975">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding>
-            <marker date="1493532343823" expanded="true" signature="3472:3558" ph="SELECT * FRO... departments" />
-            <marker date="1493532343823" expanded="true" signature="4178:4248" ph="SELECT * FRO... departments" />
-            <marker date="1493532343823" expanded="true" signature="4767:4836" ph="SELECT * FRO... departments" />
-            <marker date="1493532343823" expanded="true" signature="5358:5432" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>
@@ -636,10 +633,10 @@
         <state relative-caret-position="960">
           <caret line="64" column="55" lean-forward="false" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
           <folding>
-            <marker date="1493532343823" expanded="true" signature="3472:3558" ph="SELECT * FRO... departments" />
-            <marker date="1493532343823" expanded="true" signature="4178:4248" ph="SELECT * FRO... departments" />
-            <marker date="1493532343823" expanded="true" signature="4767:4836" ph="SELECT * FRO... departments" />
-            <marker date="1493532343823" expanded="true" signature="5358:5432" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>
@@ -905,24 +902,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="145" column="29" lean-forward="true" selection-start-line="145" selection-start-column="29" selection-end-line="145" selection-end-column="29" />
-          <folding>
-            <marker date="1493532343823" expanded="true" signature="3472:3558" ph="SELECT * FRO... departments" />
-            <marker date="1493532343823" expanded="true" signature="4178:4248" ph="SELECT * FRO... departments" />
-            <marker date="1493532343823" expanded="true" signature="4767:4836" ph="SELECT * FRO... departments" />
-            <marker date="1493532343823" expanded="true" signature="5358:5432" ph="SELECT * FRO... departments" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/counter.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+          <folding>
+            <marker date="1493532539851" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
+            <marker date="1493532539851" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
+          </folding>
         </state>
       </provider>
     </entry>
