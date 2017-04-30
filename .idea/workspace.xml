@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/pages.php" afterPath="$PROJECT_DIR$/admin/pages.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/navbar-top.php" afterPath="$PROJECT_DIR$/inc/navbar-top.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,10 +63,10 @@
         <entry file="file://$PROJECT_DIR$/admin/pages.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="321">
-              <caret line="132" column="87" lean-forward="false" selection-start-line="132" selection-start-column="87" selection-end-line="132" selection-end-column="87" />
+              <caret line="132" column="88" lean-forward="false" selection-start-line="132" selection-start-column="88" selection-end-line="132" selection-end-column="88" />
               <folding>
-                <marker date="1493532298559" expanded="true" signature="155:205" ph="SELECT * FRO... pages" />
-                <marker date="1493532298559" expanded="true" signature="5512:5576" ph="SELECT * FRO... pages" />
+                <marker date="1493533949211" expanded="true" signature="155:205" ph="SELECT * FRO... pages" />
+                <marker date="1493533949211" expanded="true" signature="5512:5577" ph="SELECT * FRO... pages" />
               </folding>
             </state>
           </provider>
@@ -74,7 +75,7 @@
       <file leaf-file-name="main-slider.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/main-slider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="46">
               <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
               <folding />
             </state>
@@ -84,13 +85,13 @@
       <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+            <state relative-caret-position="527">
+              <caret line="175" column="0" lean-forward="true" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
               <folding>
-                <marker date="1493532539851" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
-                <marker date="1493532539851" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
-                <marker date="1493532539851" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
-                <marker date="1493532539851" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
+                <marker date="1493533981299" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
+                <marker date="1493533981299" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
+                <marker date="1493533981299" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
+                <marker date="1493533981299" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
               </folding>
             </state>
           </provider>
@@ -202,8 +203,8 @@
         <option value="$PROJECT_DIR$/inc/main-slider.php" />
         <option value="$PROJECT_DIR$/inc/headers.php" />
         <option value="$PROJECT_DIR$/inc/scripts.php" />
-        <option value="$PROJECT_DIR$/admin/pages.php" />
         <option value="$PROJECT_DIR$/counter.txt" />
+        <option value="$PROJECT_DIR$/admin/pages.php" />
         <option value="$PROJECT_DIR$/inc/navbar-top.php" />
       </list>
     </option>
@@ -430,12 +431,12 @@
       <workItem from="1493017683275" duration="12602000" />
       <workItem from="1493101389811" duration="10148000" />
       <workItem from="1493194327686" duration="5516000" />
-      <workItem from="1493529108273" duration="892000" />
+      <workItem from="1493529108273" duration="1529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81666000" />
+    <option name="totallyTimeSpent" value="82303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -499,10 +500,10 @@
         <state relative-caret-position="975">
           <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding>
-            <marker date="1493532539851" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
-            <marker date="1493532539851" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
-            <marker date="1493532539851" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
-            <marker date="1493532539851" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>
@@ -633,10 +634,10 @@
         <state relative-caret-position="960">
           <caret line="64" column="55" lean-forward="false" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
           <folding>
-            <marker date="1493532539851" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
-            <marker date="1493532539851" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
-            <marker date="1493532539851" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
-            <marker date="1493532539851" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>
@@ -856,14 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/main-slider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/syllabus/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -891,17 +884,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/pages.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="132" column="87" lean-forward="false" selection-start-line="132" selection-start-column="87" selection-end-line="132" selection-end-column="87" />
-          <folding>
-            <marker date="1493532298559" expanded="true" signature="155:205" ph="SELECT * FRO... pages" />
-            <marker date="1493532298559" expanded="true" signature="5512:5576" ph="SELECT * FRO... pages" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/counter.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -910,15 +892,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="132" column="88" lean-forward="false" selection-start-line="132" selection-start-column="88" selection-end-line="132" selection-end-column="88" />
+          <folding>
+            <marker date="1493533949211" expanded="true" signature="155:205" ph="SELECT * FRO... pages" />
+            <marker date="1493533949211" expanded="true" signature="5512:5577" ph="SELECT * FRO... pages" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/main-slider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="46" column="37" lean-forward="false" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        <state relative-caret-position="527">
+          <caret line="175" column="0" lean-forward="true" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
           <folding>
-            <marker date="1493532539851" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
-            <marker date="1493532539851" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
-            <marker date="1493532539851" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
-            <marker date="1493532539851" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="3471:3557" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="4177:4247" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="4766:4835" ph="SELECT * FRO... departments" />
+            <marker date="1493533981299" expanded="true" signature="5357:5431" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>

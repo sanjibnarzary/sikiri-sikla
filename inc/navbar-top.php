@@ -170,7 +170,7 @@ $f = new Functions();
                         <li><a href="#">CITVAT</a></li>
 
                         <li class="dropdown-header">B.Des</li>
-                        <li><a href="#">CITBDAT</a></li>
+                        <li><a href="/citbdat">CITBDAT</a></li>
                         <li class="dropdown-header">Admission Website</li>
                         <li><a href="http://admission.cit.ac.in">CIT Admission Website</a></li>
 
