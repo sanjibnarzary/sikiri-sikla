@@ -96,6 +96,7 @@
                                         <?php echo empty($people['OtherDuty'])?'':'<b>'.$people['OtherDuty'].'</b><br>';?>
                                         <?php echo empty($people['Degree'])?'':$people['Degree'].'<br>'?>
                                         <?php echo empty($people['Email'])?'':$people['Email'].'<br>'?>
+                                        <?php echo empty($people['webURL'])?'':'<a href="'.$people['webURL'].'">'.$people['webURL'].'</a><br>'?>
                                     </p>
                                 </td>
                             </tr>
@@ -118,7 +119,8 @@
 
                                     <?php echo empty($people['OtherDuty'])?'':'<b>'.$people['OtherDuty'].'</b><br>';?>
                                     <?php echo empty($people['Degree'])?'':$people['Degree'].'<br>'?>
-                                    <?php echo empty($people['Email'])?'':$people['Email'].'<br><br>'?>
+                                    <?php echo empty($people['Email'])?'':$people['Email'].'<br>'?>
+                                    <?php echo empty($people['webURL'])?'':'<a href="'.$people['webURL'].'">'.$people['webURL'].'</a><br><br>'?>
 
                                     <?php echo empty($people['SubjectsTaught'])?'':$people['SubjectsTaught'].'<br>'?>
 
