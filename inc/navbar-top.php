@@ -183,6 +183,8 @@ $f = new Functions();
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-adjust"></i> Useful Info <span class="caret"></span></a>
 						<ul class="dropdown-menu">
+                            <li class="dropdown-header">Committees</li>
+                            <li><a href="http://icc.cit.ac.in/">Internal Complaint Committee</a></li>
                             <li class="dropdown-header">Intranet Website</li>
                             <li><a href="http://intranet.cit.ac.in">Intranet Website</a></li>
 							<li class="dropdown-header">Mail</li>
