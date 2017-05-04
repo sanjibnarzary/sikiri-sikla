@@ -11,7 +11,7 @@
 
     }
     else{
-        //header('Location: login.php');
+        header('Location: login.php');
     }
 ?>
 <!DOCTYPE html>

@@ -4,8 +4,8 @@
     $row = [];
     if(isset($_GET['id'])){
         $id = $_GET['id'];
-        $str = "SELECT * FROM `pages` WHERE `id`='".$id."' LIMIT 1";
-        $page = $f->selectQuery($str);
+        $str = "SELECT * FROM `peoples` WHERE `id`='".$id."' LIMIT 1";
+        $people = $f->selectQuery($str);
     }
     if($f->isLoggedIn()){
 
@@ -97,21 +97,21 @@
                         <div class="form-group">
                             <div class="input-group">
                                 <span class="input-group-addon">Title</span>
-                                <input type="text" class="form-control" id="title" name="title" placeholder="Page title" aria-describedby="basic-addon2" value="<?php echo $page['title']?>">
+                                <input type="text" class="form-control" id="title" name="title" placeholder="Page title" aria-describedby="basic-addon2" value="<?php echo $people['title']?>">
 
                             </div>
                         </div>
                         <div class="form-group">
                             <div class="input-group">
                                 <span class="input-group-addon">Slug</span>
-                                <input type="text" class="form-control" id="slug" name="slug" placeholder="Slug e.g., about-us" aria-describedby="basic-addon2" value="<?php echo $page['slug']?>">
+                                <input type="text" class="form-control" id="slug" name="slug" placeholder="Slug e.g., about-us" aria-describedby="basic-addon2" value="<?php echo $people['slug']?>">
 
                             </div>
                         </div>
 
                         <div class="form-group">
                             <label for="body">Description of Body</label>
-                            <textarea class="form-control" name="body" id="body"><?php echo $page['body']?></textarea>
+                            <textarea class="form-control" name="body" id="body"><?php echo $people['body']?></textarea>
                         </div>
                     </div>
                     <div class="col-md-12">
@@ -131,9 +131,9 @@
                 <table class="table table-responsive">
                     <?php
                         $str = "SELECT * FROM `pages` WHERE 1 ORDER BY `created_at` DESC LIMIT 10";
-                        $pages = $f->selectQueries($str);
-                        foreach ($pages as $page){
-                            echo '<tr><td><a href="pages.php?id='.$page['id'].'">'.$page['title'].'</a></td></tr>';
+                        $peoples = $f->selectQueries($str);
+                        foreach ($peoples as $people){
+                            echo '<tr><td><a href="pages.php?id='.$people['id'].'">'.$people['title'].'</a></td></tr>';
                         }
                     ?>
                 </table>

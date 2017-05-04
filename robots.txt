@@ -1,4 +1,19 @@
 User-Agent: *
 Disallow:
 Disallow: /uploads
+Disallow: /upload
+Disallow: /IT
+Disallow: /CSE
+Disallow: /ICE
+Disallow: /AMT
+Disallow: /MCD
+Disallow: /ECE
+Disallow: /CHEM
+Disallow: /PHY
+Disallow: /MATHS
+Disallow: /library.php
 Disallow: /admin
+Disallow: /bog.php
+Disallow: /society.php
+Disallow: /MECH
+Disallow: /ELE

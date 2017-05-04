@@ -57,7 +57,7 @@ class Functions
     }
 
     function setLogin($u,$p){
-        $str = "SELECT `id`,`name`, `email` FROM `users` WHERE (`email`='".$u."' OR `phone`='".$u."') AND `password`='".md5($p)."' LIMIT 1";
+        $str = "SELECT `id`,`name`, `username` FROM `admin_users` WHERE (`username`='".$u."') AND `password`='".md5($p)."' LIMIT 1";
         $row = $this->selectQuery($str);
         if(empty($row)){
             return false;
@@ -68,7 +68,7 @@ class Functions
             @session_start();
             $_SESSION['name'] = $row['name'];
             @session_start();
-            $_SESSION['email'] = $row['email'];
+            $_SESSION['username'] = $row['username'];
             @session_start();
             $_SESSION['login'] = '_sanjibnarzaryphdwork';
             return true;
@@ -77,7 +77,7 @@ class Functions
 
     function isLoggedIn(){
         @session_start();
-        if(isset($_SESSION['name'])&&isset($_SESSION['email'])&&isset($_SESSION['login'])){
+        if(isset($_SESSION['name'])&&isset($_SESSION['username'])&&isset($_SESSION['login'])){
             @session_start();
             if ($_SESSION['login']=='_sanjibnarzaryphdwork'){
                 return true;

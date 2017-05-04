@@ -12,7 +12,7 @@
             $circulation = 0;
         }
         $body = $_POST['body'];
-        $user = 1;
+        $user = $_POST['user_id'];;
         $type = $_POST['type'];
         $dept_type = $_POST['dept_type'];
         $file_name = fileUpload($_FILES['notice_file']);

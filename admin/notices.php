@@ -12,10 +12,11 @@
 
     }
     if($f->isLoggedIn()){
-
+        //echo 'Logged in';
     }
     else{
-        //header('Location: login.php');
+        header('Location: login.php');
+        //echo 'not logged in';
     }
 ?>
 <!DOCTYPE html>
@@ -112,9 +113,9 @@
                                     <div class="input-group">
                                         <span class="input-group-addon">Notice Type</span>
                                         <select name="notice_type" class="form-control">
+                                            <option value="tender">Tender</option>
                                             <option value="notice">Notice</option>
                                             <option value="event">Event/Worshop</option>
-                                            <option value="tender">Tender</option>
                                         </select>
 
                                     </div>
