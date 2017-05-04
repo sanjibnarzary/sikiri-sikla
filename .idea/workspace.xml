@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/biodata/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counter.txt" afterPath="$PROJECT_DIR$/counter.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/peoples.php" afterPath="$PROJECT_DIR$/peoples.php" />
     </list>
@@ -20,19 +19,29 @@
       <file leaf-file-name="peoples.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/peoples.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="99" column="162" lean-forward="false" selection-start-line="99" selection-start-column="162" selection-end-line="99" selection-end-column="162" />
+            <state relative-caret-position="195">
+              <caret line="90" column="105" lean-forward="false" selection-start-line="90" selection-start-column="105" selection-end-line="90" selection-end-column="105" />
               <folding>
-                <marker date="1493903843657" expanded="true" signature="213:275" ph="SELECT * FRO... departments" />
-                <marker date="1493903843657" expanded="true" signature="450:500" ph="SELECT * FRO... tpeople" />
-                <marker date="1493903843657" expanded="true" signature="737:801" ph="SELECT * FRO... tpeople" />
-                <marker date="1493903843657" expanded="true" signature="737:809" ph="SELECT * FRO... tpeople" />
-                <marker date="1493903843657" expanded="true" signature="6120:6335" ph="..." />
-                <marker date="1493903843657" expanded="true" signature="6212:6243" ph="..." />
-                <marker date="1493903843657" expanded="true" signature="6212:6335" ph="..." />
-                <marker date="1493903843657" expanded="true" signature="6259:6335" ph="..." />
-                <marker date="1493903843657" expanded="true" signature="6729:6771" ph="..." />
+                <marker date="1493905332096" expanded="true" signature="213:275" ph="SELECT * FRO... departments" />
+                <marker date="1493905332096" expanded="true" signature="450:500" ph="SELECT * FRO... tpeople" />
+                <marker date="1493905332096" expanded="true" signature="737:801" ph="SELECT * FRO... tpeople" />
+                <marker date="1493905332096" expanded="true" signature="737:809" ph="SELECT * FRO... tpeople" />
+                <marker date="1493905332096" expanded="true" signature="6119:6334" ph="..." />
+                <marker date="1493905332096" expanded="true" signature="6211:6242" ph="..." />
+                <marker date="1493905332096" expanded="true" signature="6211:6334" ph="..." />
+                <marker date="1493905332096" expanded="true" signature="6258:6334" ph="..." />
+                <marker date="1493905332096" expanded="true" signature="6727:6769" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,6 +74,7 @@
       <find>$dept</find>
       <find>example-generic</find>
       <find>$page</find>
+      <find>faculty</find>
     </findStrings>
     <replaceStrings>
       <replace>../assets</replace>
@@ -89,7 +99,6 @@
         <option value="$PROJECT_DIR$/bin/addDepartments.php" />
         <option value="$PROJECT_DIR$/bin/addPages.php" />
         <option value="$PROJECT_DIR$/db-config.php" />
-        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
@@ -114,6 +123,7 @@
         <option value="$PROJECT_DIR$/admin/peoples.php" />
         <option value="$PROJECT_DIR$/admin/login.php" />
         <option value="$PROJECT_DIR$/inc/navbar-top.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/peoples.php" />
         <option value="$PROJECT_DIR$/counter.txt" />
       </list>
@@ -315,12 +325,12 @@
       <workItem from="1493194327686" duration="5516000" />
       <workItem from="1493529108273" duration="3184000" />
       <workItem from="1493852209249" duration="5040000" />
-      <workItem from="1493902255205" duration="1471000" />
+      <workItem from="1493902255205" duration="2495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90469000" />
+    <option name="totallyTimeSpent" value="91493000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -499,14 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -751,20 +753,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/peoples.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="99" column="162" lean-forward="false" selection-start-line="99" selection-start-column="162" selection-end-line="99" selection-end-column="162" />
+        <state relative-caret-position="195">
+          <caret line="90" column="105" lean-forward="false" selection-start-line="90" selection-start-column="105" selection-end-line="90" selection-end-column="105" />
           <folding>
-            <marker date="1493903843657" expanded="true" signature="213:275" ph="SELECT * FRO... departments" />
-            <marker date="1493903843657" expanded="true" signature="450:500" ph="SELECT * FRO... tpeople" />
-            <marker date="1493903843657" expanded="true" signature="737:801" ph="SELECT * FRO... tpeople" />
-            <marker date="1493903843657" expanded="true" signature="737:809" ph="SELECT * FRO... tpeople" />
-            <marker date="1493903843657" expanded="true" signature="6120:6335" ph="..." />
-            <marker date="1493903843657" expanded="true" signature="6212:6243" ph="..." />
-            <marker date="1493903843657" expanded="true" signature="6212:6335" ph="..." />
-            <marker date="1493903843657" expanded="true" signature="6259:6335" ph="..." />
-            <marker date="1493903843657" expanded="true" signature="6729:6771" ph="..." />
+            <marker date="1493905332096" expanded="true" signature="213:275" ph="SELECT * FRO... departments" />
+            <marker date="1493905332096" expanded="true" signature="450:500" ph="SELECT * FRO... tpeople" />
+            <marker date="1493905332096" expanded="true" signature="737:801" ph="SELECT * FRO... tpeople" />
+            <marker date="1493905332096" expanded="true" signature="737:809" ph="SELECT * FRO... tpeople" />
+            <marker date="1493905332096" expanded="true" signature="6119:6334" ph="..." />
+            <marker date="1493905332096" expanded="true" signature="6211:6242" ph="..." />
+            <marker date="1493905332096" expanded="true" signature="6211:6334" ph="..." />
+            <marker date="1493905332096" expanded="true" signature="6258:6334" ph="..." />
+            <marker date="1493905332096" expanded="true" signature="6727:6769" ph="..." />
           </folding>
         </state>
       </provider>

@@ -15,8 +15,8 @@ RewriteRule ^notices/type/([^/]+)?$ notices.php?type=$1 [QSA,L]
 
 RewriteRule ^notices/([^/]+)?$ notices.php?id=$1 [QSA,L]
 
-RewriteRule ^department/([^/]+)/faculty?$ peoples.php?code=$1 [QSA,L]
-RewriteRule ^department/([^/]+)/faculty/([^/]+)?$ peoples.php?code=$1&id=$2 [QSA,L]
+RewriteRule ^department/([^/]+)/people?$ peoples.php?code=$1 [QSA,L]
+RewriteRule ^department/([^/]+)/people/([^/]+)?$ peoples.php?code=$1&id=$2 [QSA,L]
 RewriteRule ^department/([^/]+)?$ departments.php?code=$1 [QSA,L]
 
 

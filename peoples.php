@@ -88,7 +88,7 @@
                             ?>
                         <table class="table">
                             <tr>
-                                <td width="122"><a href="/department/<?php echo $people['code'];?>/faculty/<?php echo $people['EmpID'];?>"><img class="img-rounded" src="<?php $pp = str_replace('..',' ',$people['ProfilePhoto']); echo empty($pp)?'/upload/Prof_Picts/nophoto.jpg':$pp; ?>" width="120"></td>
+                                <td width="122"><a href="/department/<?php echo $people['code'];?>/people/<?php echo $people['EmpID'];?>"><img class="img-rounded" src="<?php $pp = str_replace('..',' ',$people['ProfilePhoto']); echo empty($pp)?'/upload/Prof_Picts/nophoto.jpg':$pp; ?>" width="120"></td>
                                 <td class="text-left"><h3><?php echo $people['FirstName'].' '.$people['MiddleName'].' '.$people['LastName'];?></h3>
                                     <h5><?php echo $people['Title'];?></h5>
                                     <p>
@@ -141,7 +141,7 @@
                 <div>
                     <ul class="list-unstyled">
                         <li class=""><a href="/department/<?php echo $dept['code'];?>">About</a></li>
-                        <li class=""><a href="/department/<?php echo $dept['code'];?>/faculty">Faculties</a></li>
+                        <li class=""><a href="/department/<?php echo $dept['code'];?>/people">Faculties</a></li>
                         <li class=""><a href="#">Staffs</a></li>
                         <li class=""><a href="#">Facilities</a></li>
 
