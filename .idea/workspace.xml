@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/biodata/ie/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Anjoy Basumatary_JTS.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/Anjoy Basumatary_JTS.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Arpan Nath _JTS.doc" afterPath="$PROJECT_DIR$/upload/biodata/ie/Arpan Nath _JTS.doc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Bhimraj  Prasai Chetry_JTS.pdf" afterPath="$PROJECT_DIR$/upload/biodata/ie/Bhimraj  Prasai Chetry_JTS.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Biodata-Dipankar.pdf" afterPath="$PROJECT_DIR$/upload/biodata/ie/Biodata-Dipankar.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/CURRICULUM VITAE _--KCD.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/CURRICULUM VITAE _--KCD.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/CURRICULUM VITAE_Borat.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/CURRICULUM VITAE_Borat.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Dr. T.K Maiti_Professor.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/Dr. T.K Maiti_Professor.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Ganesh Roy_research.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/Ganesh Roy_research.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/INSTRUMENTATION ENGINEERING_Website.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/INSTRUMENTATION ENGINEERING_Website.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Jeet_Dutta_CV.doc" afterPath="$PROJECT_DIR$/upload/biodata/ie/Jeet_Dutta_CV.doc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/RKR-CURRICULUM VITAE.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/RKR-CURRICULUM VITAE.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/short CV-Dipen.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/short CV-Dipen.docx" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/short CV_apurba.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/short CV_apurba.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counter.txt" afterPath="$PROJECT_DIR$/counter.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/departments.php" afterPath="$PROJECT_DIR$/departments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/peoples.php" afterPath="$PROJECT_DIR$/peoples.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload/biodata/index.php" afterPath="$PROJECT_DIR$/upload/biodata/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,19 +35,20 @@
       <file leaf-file-name="peoples.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/peoples.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2053">
-              <caret line="143" column="109" lean-forward="false" selection-start-line="143" selection-start-column="109" selection-end-line="143" selection-end-column="109" />
+            <state relative-caret-position="437">
+              <caret line="126" column="182" lean-forward="false" selection-start-line="126" selection-start-column="182" selection-end-line="126" selection-end-column="182" />
               <folding>
-                <element signature="e#6466#6471#0#HTML" expanded="true" />
-                <marker date="1493906265224" expanded="true" signature="213:275" ph="SELECT * FRO... departments" />
-                <marker date="1493906265224" expanded="true" signature="450:500" ph="SELECT * FRO... tpeople" />
-                <marker date="1493906265224" expanded="true" signature="737:801" ph="SELECT * FRO... tpeople" />
-                <marker date="1493906265224" expanded="true" signature="737:809" ph="SELECT * FRO... tpeople" />
-                <marker date="1493906265224" expanded="true" signature="6119:6334" ph="..." />
-                <marker date="1493906265224" expanded="true" signature="6211:6242" ph="..." />
-                <marker date="1493906265224" expanded="true" signature="6211:6334" ph="..." />
-                <marker date="1493906265224" expanded="true" signature="6258:6334" ph="..." />
-                <marker date="1493906265224" expanded="true" signature="6675:6717" ph="..." />
+                <element signature="e#6536#6541#0#HTML" expanded="true" />
+                <marker date="1493907505338" expanded="true" signature="213:275" ph="SELECT * FRO... departments" />
+                <marker date="1493907505338" expanded="true" signature="450:500" ph="SELECT * FRO... tpeople" />
+                <marker date="1493907505338" expanded="true" signature="737:801" ph="SELECT * FRO... tpeople" />
+                <marker date="1493907505338" expanded="true" signature="737:809" ph="SELECT * FRO... tpeople" />
+                <marker date="1493907505338" expanded="true" signature="4125:4146" ph="..." />
+                <marker date="1493907505338" expanded="true" signature="6189:6404" ph="..." />
+                <marker date="1493907505338" expanded="true" signature="6281:6312" ph="..." />
+                <marker date="1493907505338" expanded="true" signature="6281:6404" ph="..." />
+                <marker date="1493907505338" expanded="true" signature="6328:6404" ph="..." />
+                <marker date="1493907505338" expanded="true" signature="6745:6787" ph="..." />
               </folding>
             </state>
           </provider>
@@ -39,15 +58,25 @@
         <entry file="file://$PROJECT_DIR$/departments.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="398">
-              <caret line="73" column="125" lean-forward="false" selection-start-line="73" selection-start-column="125" selection-end-line="73" selection-end-column="125" />
+              <caret line="73" column="111" lean-forward="false" selection-start-line="73" selection-start-column="111" selection-end-line="73" selection-end-column="111" />
               <folding>
                 <element signature="e#2376#2381#0#HTML" expanded="true" />
-                <marker date="1493906549032" expanded="true" signature="188:232" ph="SELECT * FRO... departments" />
-                <marker date="1493906549032" expanded="true" signature="188:242" ph="SELECT * FRO... departments" />
-                <marker date="1493906549032" expanded="true" signature="188:250" ph="SELECT * FRO... departments" />
-                <marker date="1493906549032" expanded="true" signature="1308:1376" ph="..." />
-                <marker date="1493906549032" expanded="true" signature="3083:3150" ph="SELECT * FRO... notices" />
+                <marker date="1493907569376" expanded="true" signature="188:232" ph="SELECT * FRO... departments" />
+                <marker date="1493907569376" expanded="true" signature="188:242" ph="SELECT * FRO... departments" />
+                <marker date="1493907569376" expanded="true" signature="188:250" ph="SELECT * FRO... departments" />
+                <marker date="1493907569376" expanded="true" signature="1308:1376" ph="..." />
+                <marker date="1493907569376" expanded="true" signature="3084:3151" ph="SELECT * FRO... notices" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/biodata/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -211,6 +240,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biodata" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -227,17 +274,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/upload/biodata/ie" />
+      <recent name="$PROJECT_DIR$/assets/bt-submenu" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/admin" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/js/jslider" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/bin" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/bt-submenu" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -342,12 +390,12 @@
       <workItem from="1493194327686" duration="5516000" />
       <workItem from="1493529108273" duration="3184000" />
       <workItem from="1493852209249" duration="5040000" />
-      <workItem from="1493902255205" duration="3395000" />
+      <workItem from="1493902255205" duration="4191000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92393000" />
+    <option name="totallyTimeSpent" value="93189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -391,13 +439,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/inc/main-slider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/departments.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2310">
@@ -411,11 +452,11 @@
           <caret line="75" column="25" lean-forward="false" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
           <folding>
             <element signature="e#2376#2381#0#HTML" expanded="true" />
-            <marker date="1493906549032" expanded="true" signature="188:232" ph="SELECT * FRO... departments" />
-            <marker date="1493906549032" expanded="true" signature="188:242" ph="SELECT * FRO... departments" />
-            <marker date="1493906549032" expanded="true" signature="188:250" ph="SELECT * FRO... departments" />
-            <marker date="1493906549032" expanded="true" signature="1308:1376" ph="..." />
-            <marker date="1493906549032" expanded="true" signature="3083:3150" ph="SELECT * FRO... notices" />
+            <marker date="1493907569376" expanded="true" signature="188:232" ph="SELECT * FRO... departments" />
+            <marker date="1493907569376" expanded="true" signature="188:242" ph="SELECT * FRO... departments" />
+            <marker date="1493907569376" expanded="true" signature="188:250" ph="SELECT * FRO... departments" />
+            <marker date="1493907569376" expanded="true" signature="1308:1376" ph="..." />
+            <marker date="1493907569376" expanded="true" signature="3084:3151" ph="SELECT * FRO... notices" />
           </folding>
         </state>
       </provider>
@@ -607,6 +648,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="210" column="2" lean-forward="true" selection-start-line="210" selection-start-column="2" selection-end-line="210" selection-end-column="2" />
+          <folding>
+            <marker date="1434613192000" expanded="true" signature="99113:99408" ph="..." />
+            <marker date="1434613192000" expanded="true" signature="99345:99399" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -628,6 +673,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="67" lean-forward="false" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -749,7 +795,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/biodata/index.php">
+    <entry file="file://$PROJECT_DIR$/upload/biodata/ie/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -773,21 +819,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/upload/biodata/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/peoples.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2053">
-          <caret line="143" column="109" lean-forward="false" selection-start-line="143" selection-start-column="109" selection-end-line="143" selection-end-column="109" />
+        <state relative-caret-position="437">
+          <caret line="126" column="182" lean-forward="false" selection-start-line="126" selection-start-column="182" selection-end-line="126" selection-end-column="182" />
           <folding>
-            <element signature="e#6466#6471#0#HTML" expanded="true" />
-            <marker date="1493906265224" expanded="true" signature="213:275" ph="SELECT * FRO... departments" />
-            <marker date="1493906265224" expanded="true" signature="450:500" ph="SELECT * FRO... tpeople" />
-            <marker date="1493906265224" expanded="true" signature="737:801" ph="SELECT * FRO... tpeople" />
-            <marker date="1493906265224" expanded="true" signature="737:809" ph="SELECT * FRO... tpeople" />
-            <marker date="1493906265224" expanded="true" signature="6119:6334" ph="..." />
-            <marker date="1493906265224" expanded="true" signature="6211:6242" ph="..." />
-            <marker date="1493906265224" expanded="true" signature="6211:6334" ph="..." />
-            <marker date="1493906265224" expanded="true" signature="6258:6334" ph="..." />
-            <marker date="1493906265224" expanded="true" signature="6675:6717" ph="..." />
+            <element signature="e#6536#6541#0#HTML" expanded="true" />
+            <marker date="1493907505338" expanded="true" signature="213:275" ph="SELECT * FRO... departments" />
+            <marker date="1493907505338" expanded="true" signature="450:500" ph="SELECT * FRO... tpeople" />
+            <marker date="1493907505338" expanded="true" signature="737:801" ph="SELECT * FRO... tpeople" />
+            <marker date="1493907505338" expanded="true" signature="737:809" ph="SELECT * FRO... tpeople" />
+            <marker date="1493907505338" expanded="true" signature="4125:4146" ph="..." />
+            <marker date="1493907505338" expanded="true" signature="6189:6404" ph="..." />
+            <marker date="1493907505338" expanded="true" signature="6281:6312" ph="..." />
+            <marker date="1493907505338" expanded="true" signature="6281:6404" ph="..." />
+            <marker date="1493907505338" expanded="true" signature="6328:6404" ph="..." />
+            <marker date="1493907505338" expanded="true" signature="6745:6787" ph="..." />
           </folding>
         </state>
       </provider>
@@ -795,14 +850,14 @@
     <entry file="file://$PROJECT_DIR$/departments.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="398">
-          <caret line="73" column="125" lean-forward="false" selection-start-line="73" selection-start-column="125" selection-end-line="73" selection-end-column="125" />
+          <caret line="73" column="111" lean-forward="false" selection-start-line="73" selection-start-column="111" selection-end-line="73" selection-end-column="111" />
           <folding>
             <element signature="e#2376#2381#0#HTML" expanded="true" />
-            <marker date="1493906549032" expanded="true" signature="188:232" ph="SELECT * FRO... departments" />
-            <marker date="1493906549032" expanded="true" signature="188:242" ph="SELECT * FRO... departments" />
-            <marker date="1493906549032" expanded="true" signature="188:250" ph="SELECT * FRO... departments" />
-            <marker date="1493906549032" expanded="true" signature="1308:1376" ph="..." />
-            <marker date="1493906549032" expanded="true" signature="3083:3150" ph="SELECT * FRO... notices" />
+            <marker date="1493907569376" expanded="true" signature="188:232" ph="SELECT * FRO... departments" />
+            <marker date="1493907569376" expanded="true" signature="188:242" ph="SELECT * FRO... departments" />
+            <marker date="1493907569376" expanded="true" signature="188:250" ph="SELECT * FRO... departments" />
+            <marker date="1493907569376" expanded="true" signature="1308:1376" ph="..." />
+            <marker date="1493907569376" expanded="true" signature="3084:3151" ph="SELECT * FRO... notices" />
           </folding>
         </state>
       </provider>

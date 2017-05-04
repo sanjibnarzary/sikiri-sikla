@@ -97,7 +97,7 @@
                                         <?php echo empty($people['Degree'])?'':$people['Degree'].'<br>'?>
                                         <?php echo empty($people['Email'])?'':$people['Email'].'<br>'?>
                                         <?php echo empty($people['webURL'])?'':'<a href="'.$people['webURL'].'">'.$people['webURL'].'</a><br>'?>
-                                        <?php echo empty($people['Biodata'])?'':'<a style="text-decoration:none;" href="/upload/biodata/'.$people['Biodata'].'">CV</a>'.'<br>'?>
+                                        <?php echo empty($people['Biodata'])?'':'<a style="text-decoration:none;" href="/upload/biodata/'.$people['code'].'/'.$people['Biodata'].'">CV</a>'.'<br>'?>
                                     </p>
                                 </td>
                             </tr>
@@ -124,7 +124,7 @@
                                     <?php echo empty($people['webURL'])?'':'<a href="'.$people['webURL'].'">'.$people['webURL'].'</a><br><br>'?>
 
                                     <?php echo empty($people['SubjectsTaught'])?'':$people['SubjectsTaught'].'<br>'?>
-                                    <?php echo empty($people['Biodata'])?'':'<a href="/upload/biodata/'.$people['Biodata'].'">Short CV</a>'.'<br>'?>
+                                    <?php echo empty($people['Biodata'])?'':'<a style="text-decoration:none;" href="/upload/biodata/'.$people['code'].'/'.$people['Biodata'].'">Short CV</a>'.'<br>'?>
 
                                 </p>
                             </div>
