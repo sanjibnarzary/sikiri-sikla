@@ -141,8 +141,7 @@
                 <div>
                     <ul class="list-unstyled">
                         <li class=""><a href="/department/<?php echo $dept['code'];?>">About</a></li>
-                        <li class=""><a href="/department/<?php echo $dept['code'];?>/people">Faculties</a></li>
-                        <li class=""><a href="#">Staffs</a></li>
+                        <li class=""><a href="/department/<?php echo $dept['code'];?>/people">Faculties & Staffs</a></li>
                         <li class=""><a href="#">Facilities</a></li>
 
                     </ul>
