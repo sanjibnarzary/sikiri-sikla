@@ -62,13 +62,14 @@ $f = new Functions();
                         </a>
 
                         <ul class="dropdown-menu">
+
                             <li class="dropdown-submenu">
                                 <a tabindex="0" role="button"><i class="glyphicon glyphicon-lamp"></i> Rules &amp; Regulations</a>
 
                                 <ul class="dropdown-menu">
-                                    <li><a href="/uploads/rules/Academic%20Rules.pdf">Academic Rules &amp; Regulations</a></li>
-                                    <li><a href="/uploads/rules/Examination%20rules_2012.pdf">Examination Rules &amp; Regulations</a></li>
-                                    <li><a href="/uploads/rules/Hostel%20Rule.pdf">Hostel Rules &amp; Regulations</a></li>
+                                    <li><a href="/uploads/academic/rules/Academic%20Rules.pdf">Academic Rules &amp; Regulations</a></li>
+                                    <li><a href="/uploads/academic/rules/Examination%20rules_2012.pdf">Examination Rules &amp; Regulations</a></li>
+                                    <li><a href="/uploads/academic/rules/Hostel%20Rule.pdf">Hostel Rules &amp; Regulations</a></li>
                                 </ul>
                             </li>
                             <li class="dropdown-submenu">
@@ -128,7 +129,7 @@ $f = new Functions();
 
                                 </ul>
                             </li>
-
+                            <li><a href="/uploads/academic/calendars/CITK-Academic-Calendar-2017.pdf"><i class="glyphicon glyphicon-calendar"></i> Academic Calendar 2017</a></li>
                         </ul>
 
 

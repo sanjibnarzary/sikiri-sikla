@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/Academic Rules.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/Examination rules_2012.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/Hostel Rule.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/Leave Rules.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/Medical Rules.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/_vti_cnf/Academic Rules.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/_vti_cnf/Hostel Rule.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/_vti_cnf/Leave Rules.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/_vti_cnf/Medical Rules.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/rules/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/academic/calendars/CITK-Academic-Calendar-2017.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/academic/calendars/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/academic/index.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/Academic Rules.pdf" afterPath="$PROJECT_DIR$/uploads/academic/rules/Academic Rules.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/Examination rules_2012.pdf" afterPath="$PROJECT_DIR$/uploads/academic/rules/Examination rules_2012.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/Hostel Rule.pdf" afterPath="$PROJECT_DIR$/uploads/academic/rules/Hostel Rule.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/Leave Rules.pdf" afterPath="$PROJECT_DIR$/uploads/academic/rules/Leave Rules.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/Medical Rules.pdf" afterPath="$PROJECT_DIR$/uploads/academic/rules/Medical Rules.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/_vti_cnf/Academic Rules.pdf" afterPath="$PROJECT_DIR$/uploads/academic/rules/_vti_cnf/Academic Rules.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/_vti_cnf/Hostel Rule.pdf" afterPath="$PROJECT_DIR$/uploads/academic/rules/_vti_cnf/Hostel Rule.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/_vti_cnf/Leave Rules.pdf" afterPath="$PROJECT_DIR$/uploads/academic/rules/_vti_cnf/Leave Rules.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/_vti_cnf/Medical Rules.pdf" afterPath="$PROJECT_DIR$/uploads/academic/rules/_vti_cnf/Medical Rules.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uploads/rules/index.php" afterPath="$PROJECT_DIR$/uploads/academic/rules/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counter.txt" afterPath="$PROJECT_DIR$/counter.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/navbar-top.php" afterPath="$PROJECT_DIR$/inc/navbar-top.php" />
@@ -111,18 +114,38 @@
       <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="61" column="28" lean-forward="true" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+            <state relative-caret-position="527">
+              <caret line="131" column="178" lean-forward="false" selection-start-line="131" selection-start-column="178" selection-end-line="131" selection-end-column="178" />
               <folding>
-                <element signature="e#3220#3225#0#HTML" expanded="true" />
-                <element signature="e#3403#3408#0#HTML" expanded="true" />
-                <element signature="e#3542#3547#0#HTML" expanded="true" />
-                <element signature="e#3665#3670#0#HTML" expanded="true" />
-                <marker date="1493985324345" expanded="true" signature="4182:4268" ph="SELECT * FRO... departments" />
-                <marker date="1493985324345" expanded="true" signature="4888:4958" ph="SELECT * FRO... departments" />
-                <marker date="1493985324345" expanded="true" signature="5477:5546" ph="SELECT * FRO... departments" />
-                <marker date="1493985324345" expanded="true" signature="6068:6142" ph="SELECT * FRO... departments" />
+                <element signature="e#3221#3226#0#HTML" expanded="true" />
+                <element signature="e#3413#3418#0#HTML" expanded="true" />
+                <element signature="e#3561#3566#0#HTML" expanded="true" />
+                <element signature="e#3693#3698#0#HTML" expanded="true" />
+                <marker date="1493986195997" expanded="true" signature="4210:4296" ph="SELECT * FRO... departments" />
+                <marker date="1493986195997" expanded="true" signature="4916:4986" ph="SELECT * FRO... departments" />
+                <marker date="1493986195997" expanded="true" signature="5505:5574" ph="SELECT * FRO... departments" />
+                <marker date="1493986195997" expanded="true" signature="6096:6170" ph="SELECT * FRO... departments" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploads/academic/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uploads/academic/calendars/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -197,8 +220,8 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/peoples.php" />
         <option value="$PROJECT_DIR$/departments.php" />
-        <option value="$PROJECT_DIR$/inc/navbar-top.php" />
         <option value="$PROJECT_DIR$/counter.txt" />
+        <option value="$PROJECT_DIR$/inc/navbar-top.php" />
       </list>
     </option>
   </component>
@@ -255,6 +278,60 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="academic" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="academic" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="calendars" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="inc" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -270,18 +347,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/uploads/academic/calendars" />
       <recent name="$PROJECT_DIR$/uploads" />
       <recent name="$PROJECT_DIR$/admin" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/assets/js/jslider" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/uploads/academic" />
       <recent name="$PROJECT_DIR$/upload/Prof_Picts" />
       <recent name="$PROJECT_DIR$/upload/biodata/cse" />
       <recent name="$PROJECT_DIR$/upload/biodata/ie" />
       <recent name="$PROJECT_DIR$/assets/bt-submenu" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -387,12 +464,12 @@
       <workItem from="1493529108273" duration="3184000" />
       <workItem from="1493852209249" duration="5040000" />
       <workItem from="1493902255205" duration="6281000" />
-      <workItem from="1493984836644" duration="608000" />
+      <workItem from="1493984836644" duration="1362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95887000" />
+    <option name="totallyTimeSpent" value="96641000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
@@ -436,27 +513,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/departments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" column="25" lean-forward="false" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
-          <folding>
-            <marker date="1493907569376" expanded="true" signature="188:232" ph="SELECT * FRO... departments" />
-            <marker date="1493907569376" expanded="true" signature="188:242" ph="SELECT * FRO... departments" />
-            <marker date="1493907569376" expanded="true" signature="188:250" ph="SELECT * FRO... departments" />
-            <marker date="1493907569376" expanded="true" signature="1308:1376" ph="..." />
-            <marker date="1493907569376" expanded="true" signature="3084:3151" ph="SELECT * FRO... notices" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pages.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uploads/profiles/Director_CIT_Debkumar.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -480,6 +536,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="75" column="34" lean-forward="false" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
+          <folding>
+            <marker date="1493133991703" expanded="true" signature="4044:4111" ph="SELECT * FRO... notices" />
+            <marker date="1493133991703" expanded="true" signature="5195:5276" ph="SELECT * FRO... notices" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -502,14 +562,14 @@
         <state relative-caret-position="960">
           <caret line="64" column="55" lean-forward="false" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
           <folding>
-            <element signature="e#3220#3225#0#HTML" expanded="true" />
-            <element signature="e#3403#3408#0#HTML" expanded="true" />
-            <element signature="e#3542#3547#0#HTML" expanded="true" />
-            <element signature="e#3665#3670#0#HTML" expanded="true" />
-            <marker date="1493985324345" expanded="true" signature="4182:4268" ph="SELECT * FRO... departments" />
-            <marker date="1493985324345" expanded="true" signature="4888:4958" ph="SELECT * FRO... departments" />
-            <marker date="1493985324345" expanded="true" signature="5477:5546" ph="SELECT * FRO... departments" />
-            <marker date="1493985324345" expanded="true" signature="6068:6142" ph="SELECT * FRO... departments" />
+            <element signature="e#3221#3226#0#HTML" expanded="true" />
+            <element signature="e#3413#3418#0#HTML" expanded="true" />
+            <element signature="e#3561#3566#0#HTML" expanded="true" />
+            <element signature="e#3693#3698#0#HTML" expanded="true" />
+            <marker date="1493986195997" expanded="true" signature="4210:4296" ph="SELECT * FRO... departments" />
+            <marker date="1493986195997" expanded="true" signature="4916:4986" ph="SELECT * FRO... departments" />
+            <marker date="1493986195997" expanded="true" signature="5505:5574" ph="SELECT * FRO... departments" />
+            <marker date="1493986195997" expanded="true" signature="6096:6170" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>
@@ -546,6 +606,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
           <caret line="86" column="113" lean-forward="false" selection-start-line="86" selection-start-column="84" selection-end-line="86" selection-end-column="113" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -596,6 +657,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <marker date="1493133991703" expanded="true" signature="4044:4111" ph="SELECT * FRO... notices" />
+            <marker date="1493133991703" expanded="true" signature="5195:5276" ph="SELECT * FRO... notices" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -603,6 +668,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="975">
           <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+          <folding>
+            <marker date="1493135173792" expanded="true" signature="201:255" ph="SELECT * FRO... notices" />
+            <marker date="1493135173792" expanded="true" signature="510:601" ph="SELECT * FRO... notices" />
+            <marker date="1493135173792" expanded="true" signature="510:603" ph="SELECT * FRO... notices" />
+            <marker date="1493135173792" expanded="true" signature="786:879" ph="SELECT * FRO... notices" />
+            <marker date="1493135173792" expanded="true" signature="1022:1115" ph="SELECT * FRO... notices" />
+            <marker date="1493135173792" expanded="true" signature="1244:1275" ph="SELECT * FRO... notices" />
+            <marker date="1493135173792" expanded="true" signature="1244:1311" ph="SELECT * FRO... notices" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -811,19 +885,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/academic/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/academic/calendars/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="61" column="28" lean-forward="true" selection-start-line="61" selection-start-column="28" selection-end-line="61" selection-end-column="28" />
+        <state relative-caret-position="527">
+          <caret line="131" column="178" lean-forward="false" selection-start-line="131" selection-start-column="178" selection-end-line="131" selection-end-column="178" />
           <folding>
-            <element signature="e#3220#3225#0#HTML" expanded="true" />
-            <element signature="e#3403#3408#0#HTML" expanded="true" />
-            <element signature="e#3542#3547#0#HTML" expanded="true" />
-            <element signature="e#3665#3670#0#HTML" expanded="true" />
-            <marker date="1493985324345" expanded="true" signature="4182:4268" ph="SELECT * FRO... departments" />
-            <marker date="1493985324345" expanded="true" signature="4888:4958" ph="SELECT * FRO... departments" />
-            <marker date="1493985324345" expanded="true" signature="5477:5546" ph="SELECT * FRO... departments" />
-            <marker date="1493985324345" expanded="true" signature="6068:6142" ph="SELECT * FRO... departments" />
+            <element signature="e#3221#3226#0#HTML" expanded="true" />
+            <element signature="e#3413#3418#0#HTML" expanded="true" />
+            <element signature="e#3561#3566#0#HTML" expanded="true" />
+            <element signature="e#3693#3698#0#HTML" expanded="true" />
+            <marker date="1493986195997" expanded="true" signature="4210:4296" ph="SELECT * FRO... departments" />
+            <marker date="1493986195997" expanded="true" signature="4916:4986" ph="SELECT * FRO... departments" />
+            <marker date="1493986195997" expanded="true" signature="5505:5574" ph="SELECT * FRO... departments" />
+            <marker date="1493986195997" expanded="true" signature="6096:6170" ph="SELECT * FRO... departments" />
           </folding>
         </state>
       </provider>
