@@ -63,6 +63,15 @@ $f = new Functions();
 
                         <ul class="dropdown-menu">
                             <li class="dropdown-submenu">
+                                <a tabindex="0" role="button"><i class="glyphicon glyphicon-lamp"></i> Rules &amp; Regulations</a>
+
+                                <ul class="dropdown-menu">
+                                    <li><a href="/uploads/rules/Academic%20Rules.pdf">Academic Rules &amp; Regulations</a></li>
+                                    <li><a href="/uploads/rules/Examination%20rules_2012.pdf">Examination Rules &amp; Regulations</a></li>
+                                    <li><a href="/uploads/rules/Hostel%20Rule.pdf">Hostel Rules &amp; Regulations</a></li>
+                                </ul>
+                            </li>
+                            <li class="dropdown-submenu">
                                 <a tabindex="0" role="button"><i class="glyphicon glyphicon-apple"></i> Departments</a>
 
                                 <ul class="dropdown-menu">
