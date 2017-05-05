@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/biodata/ie/index.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Anjoy Basumatary_JTS.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/Anjoy Basumatary_JTS.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Arpan Nath _JTS.doc" afterPath="$PROJECT_DIR$/upload/biodata/ie/Arpan Nath _JTS.doc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Bhimraj  Prasai Chetry_JTS.pdf" afterPath="$PROJECT_DIR$/upload/biodata/ie/Bhimraj  Prasai Chetry_JTS.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Biodata-Dipankar.pdf" afterPath="$PROJECT_DIR$/upload/biodata/ie/Biodata-Dipankar.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/CURRICULUM VITAE _--KCD.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/CURRICULUM VITAE _--KCD.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/CURRICULUM VITAE_Borat.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/CURRICULUM VITAE_Borat.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Dr. T.K Maiti_Professor.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/Dr. T.K Maiti_Professor.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Ganesh Roy_research.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/Ganesh Roy_research.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/INSTRUMENTATION ENGINEERING_Website.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/INSTRUMENTATION ENGINEERING_Website.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/Jeet_Dutta_CV.doc" afterPath="$PROJECT_DIR$/upload/biodata/ie/Jeet_Dutta_CV.doc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/RKR-CURRICULUM VITAE.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/RKR-CURRICULUM VITAE.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/short CV-Dipen.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/short CV-Dipen.docx" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/upload/biodata/short CV_apurba.docx" afterPath="$PROJECT_DIR$/upload/biodata/ie/short CV_apurba.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/Prof_Picts/swrang_photo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/biodata/cse/Pankaj pratap singh CV-CIT.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/upload/biodata/cse/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counter.txt" afterPath="$PROJECT_DIR$/counter.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/departments.php" afterPath="$PROJECT_DIR$/departments.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/peoples.php" afterPath="$PROJECT_DIR$/peoples.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/upload/biodata/index.php" afterPath="$PROJECT_DIR$/upload/biodata/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="departments.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="departments.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/departments.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="398">
@@ -67,6 +53,26 @@
                 <marker date="1493907569376" expanded="true" signature="1308:1376" ph="..." />
                 <marker date="1493907569376" expanded="true" signature="3084:3151" ph="SELECT * FRO... notices" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload/biodata/cse/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/upload/Prof_Picts/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -244,7 +250,47 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Prof_Picts" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="biodata" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="upload" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="biodata" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cse" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -275,10 +321,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/upload/Prof_Picts" />
+      <recent name="$PROJECT_DIR$/upload/biodata/cse" />
       <recent name="$PROJECT_DIR$/upload/biodata/ie" />
       <recent name="$PROJECT_DIR$/assets/bt-submenu" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets/img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/admin" />
@@ -390,18 +437,17 @@
       <workItem from="1493194327686" duration="5516000" />
       <workItem from="1493529108273" duration="3184000" />
       <workItem from="1493852209249" duration="5040000" />
-      <workItem from="1493902255205" duration="4191000" />
+      <workItem from="1493902255205" duration="5233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93189000" />
+    <option name="totallyTimeSpent" value="94231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980783" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -439,13 +485,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admin/departments.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2310">
-          <caret line="154" column="106" lean-forward="false" selection-start-line="154" selection-start-column="95" selection-end-line="154" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/departments.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
@@ -677,13 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/upload/Prof_Picts/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/robots.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -859,6 +891,22 @@
             <marker date="1493907569376" expanded="true" signature="1308:1376" ph="..." />
             <marker date="1493907569376" expanded="true" signature="3084:3151" ph="SELECT * FRO... notices" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/biodata/cse/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/Prof_Picts/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
