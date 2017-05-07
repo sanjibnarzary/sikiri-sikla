@@ -12,9 +12,37 @@ else{
 $f = new Functions();
 ?>
 
+<style>
+.affix {
+      top:0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+  .navbar {
+      margin-bottom: 0px;
+  }
 
+  .affix ~ .container-fluid {
+     position: relative;
+     
+  }
+</style>
+<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+			<img src="/assets/img/cit-banner.png" height="100">
+		</div>
+		<div class="col-md-4">
+			<br>
+			<ul><li><a href="/about-us" style="text-decoration:none;">About Us</a></li>
+			<li><a href="/mission-vision" style="text-decoration:none;">Mission &amp; Vision</a></li>
+			<li><a href="http://tnp.cit.ac.in" style="text-decoration:none;">Training & Placements</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
 <!-- Fixed navbar -->
-<nav class="navbar navbar-inverse navbar-fixed-top">
+<nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="197">
     <div class="container">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">

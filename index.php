@@ -16,7 +16,6 @@
   </head>
 
   <body>
-
   <?php
     include_once ('inc/ascitext-author.php');
     include('inc/navbar-top.php');
