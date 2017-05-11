@@ -22,18 +22,26 @@
                     <div class="col-xs-6">
                         <ul class="list-unstyled footer-nav">
                             <li><a href="/about-us">About Us</a></li>
-                            <li><a href="/contact-us">Contact Us</a></li>
                             <li><a href="/director">Director</a></li>
                             <li><a href="/registrar">Registrar</a></li>
+                            <li><a href="/notices/type/tender">Tenders</a></li>
+                            <li><a href="http://admission.cit.ac.in">Admission</a></li>
+
                         </ul>
                     </div>
                     <div class="col-xs-6">
                         <ul class="list-unstyled footer-nav">
                             <ul class="list-unstyled footer-nav">
-                                <li><a href="/notices/type/tender">Tenders</a></li>
-                                <li><a href="/notices/type/notice">Notices</a></li>
-                                <li><a href="http://centrallibrary.cit.ac.in">Central Library</a></li>
-                                <li><a href="http://admission.cit.ac.in">Admission</a></li>
+                                <li><a href="http://mhrd.gov.in/">MHRD</a></li>
+                                <li><a href="http://www.aicte-india.org/">AICTE</a></li>
+                                <li><a href="http://nkn.gov.in/">NKN</a></li>
+                                <li><a href="http://www.bopter.gov.in/">BOPTR</a></li>
+                                <li><a href="http://www.iitg.ac.in">IIT Guwahati</a></li>
+                                <li><a href="http://www.gauhati.ac.in">Gauhati University</a></li>
+                                <li><a href="http://www.astu.org.in/">ASTU</a></li>
+
+
+
                             </ul>
                         </ul>
 
@@ -66,7 +74,7 @@
     </div>
 </div>
 <div class="center-block text-center" id="footer">
-    Visitor - <?php
+    TPH - <?php
 
     require_once ('visitor-counter.php');
 

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counter.txt" afterPath="$PROJECT_DIR$/counter.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/footer-info.php" afterPath="$PROJECT_DIR$/inc/footer-info.php" />
     </list>
@@ -68,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="counter.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="counter.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/counter.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -116,13 +115,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer-info.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="footer-info.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/footer-info.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="51" column="73" lean-forward="false" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="73" />
+            <state relative-caret-position="441">
+              <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
               <folding>
-                <marker date="1494512646256" expanded="true" signature="2786:2854" ph="SELECT * FRO... departments" />
+                <marker date="1494513636061" expanded="true" signature="3128:3196" ph="SELECT * FRO... departments" />
               </folding>
             </state>
           </provider>
@@ -218,8 +217,8 @@
         <option value="$PROJECT_DIR$/peoples.php" />
         <option value="$PROJECT_DIR$/departments.php" />
         <option value="$PROJECT_DIR$/inc/navbar-top.php" />
-        <option value="$PROJECT_DIR$/inc/footer-info.php" />
         <option value="$PROJECT_DIR$/counter.txt" />
+        <option value="$PROJECT_DIR$/inc/footer-info.php" />
       </list>
     </option>
   </component>
@@ -409,12 +408,12 @@
       <workItem from="1493852209249" duration="5040000" />
       <workItem from="1493902255205" duration="6281000" />
       <workItem from="1493984836644" duration="1960000" />
-      <workItem from="1494511658803" duration="1091000" />
+      <workItem from="1494511658803" duration="1997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98330000" />
+    <option name="totallyTimeSpent" value="99236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -857,21 +856,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/footer-info.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="51" column="73" lean-forward="false" selection-start-line="51" selection-start-column="73" selection-end-line="51" selection-end-column="73" />
-          <folding>
-            <marker date="1494512646256" expanded="true" signature="2786:2854" ph="SELECT * FRO... departments" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/counter.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/footer-info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+          <folding>
+            <marker date="1494513636061" expanded="true" signature="3128:3196" ph="SELECT * FRO... departments" />
+          </folding>
         </state>
       </provider>
     </entry>
