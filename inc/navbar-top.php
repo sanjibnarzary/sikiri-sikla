@@ -30,7 +30,7 @@ $f = new Functions();
 <div class="container">
 	<div class="row">
 		<div class="col-md-8">
-			<img class="img-responsive" src="/assets/img/cit-banner.png" height="100">
+            <a href="/"><img class="img-responsive" src="/assets/img/cit-banner.png" height="100"></a>
 		</div>
 		<div class="col-md-4">
 			<br>
