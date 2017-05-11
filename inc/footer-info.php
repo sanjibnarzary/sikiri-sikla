@@ -3,7 +3,7 @@
     <div class="footer-a">
         <div class="row">
             <div class="col-md-4">
-                <h3 class="footer-heading">Address</h3>
+                <h4 class="footer-heading">Address</h4>
                 <address class="margin-bottom-30px">
                     <ul class="list-unstyled">
                         <li>Central Institute of Technology Kokrajhar
@@ -17,7 +17,7 @@
             </div>
             <div class="col-md-4">
                 <!-- COLUMN 2 -->
-                <h3 class="footer-heading">Useful Links</h3>
+                <h4 class="footer-heading">Useful Links</h4>
                 <div class="row margin-bottom-30px">
                     <div class="col-xs-6">
                         <ul class="list-unstyled footer-nav">
@@ -42,9 +42,15 @@
                 <!-- END COLUMN 2 -->
             </div>
             <div class="col-md-4">
-                <h3 class="footer-heading">Departments</h3>
+                <h4 class="footer-heading">Student's corner</h4>
                 <!-- COLUMN 3 -->
                 <ul class="list-unstyled">
+                    <li><a href="http://ecstasy.cit.ac.in">Ecstasy - Cultural Fest</a></li>
+                    <li><a href="http://www.techcracy.org">Techcracy - Technical Fest</a></li>
+                    <li><a href="http://jaikhlong.cit.ac.in">Jaikhlong - Newsletter of CIT</a></li>
+                    <li><a href="http://sanjunthi.cit.ac.in">Sanjunthi - Computer Magazine</a></li>
+                    <li><a href="http://inventech.cit.ac.in">Inventech - Skill Development</a></li>
+                    <!--
                     <?php
                     $str = "SELECT * FROM `departments` WHERE `type`='core' ORDER BY `title` ASC";
                     $depts = $f->selectQueries($str);
@@ -52,6 +58,7 @@
                         echo '<li><a href="/department/'.$dept['code'].'">'.$dept['title'].'</a></li>';
                     }
                     ?>
+                    //-->
                 </ul>
                 <!-- END COLUMN 3 -->
             </div>
