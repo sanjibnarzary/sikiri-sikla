@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd1c7b-3391-4d10-882b-bc3a9927fcd7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/counter.txt" afterPath="$PROJECT_DIR$/counter.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/footer-info.php" afterPath="$PROJECT_DIR$/inc/footer-info.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/navbar-top.php" afterPath="$PROJECT_DIR$/inc/navbar-top.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,22 +14,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="peoples.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/peoples.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1890">
-              <caret line="126" column="182" lean-forward="false" selection-start-line="126" selection-start-column="182" selection-end-line="126" selection-end-column="182" />
-              <folding>
-                <marker date="1493907505338" expanded="true" signature="213:275" ph="SELECT * FRO... departments" />
-                <marker date="1493907505338" expanded="true" signature="450:500" ph="SELECT * FRO... tpeople" />
-                <marker date="1493907505338" expanded="true" signature="737:801" ph="SELECT * FRO... tpeople" />
-                <marker date="1493907505338" expanded="true" signature="737:809" ph="SELECT * FRO... tpeople" />
-                <marker date="1493907505338" expanded="true" signature="4125:4146" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="departments.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/departments.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,26 +60,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navbar-top.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="159" column="178" lean-forward="false" selection-start-line="159" selection-start-column="178" selection-end-line="159" selection-end-column="178" />
+            <state relative-caret-position="380">
+              <caret line="53" column="86" lean-forward="false" selection-start-line="53" selection-start-column="86" selection-end-line="53" selection-end-column="86" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="e#790#795#0#HTML" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <marker date="1494511788128" expanded="false" signature="1552:1559" ph="α" />
-                <marker date="1494511788128" expanded="false" signature="3936:3941" ph="&amp;" />
-                <marker date="1494511788128" expanded="false" signature="4128:4133" ph="&amp;" />
-                <marker date="1494511788128" expanded="false" signature="4276:4281" ph="&amp;" />
-                <marker date="1494511788128" expanded="false" signature="4408:4413" ph="&amp;" />
-                <marker date="1494511788128" expanded="true" signature="4925:5011" ph="SELECT * FRO... departments" />
-                <marker date="1494511788128" expanded="true" signature="5631:5701" ph="SELECT * FRO... departments" />
-                <marker date="1494511788128" expanded="true" signature="6220:6289" ph="SELECT * FRO... departments" />
-                <marker date="1494511788128" expanded="true" signature="6811:6885" ph="SELECT * FRO... departments" />
-                <marker date="1494511788128" expanded="false" signature="7457:7462" ph="&amp;" />
+                <element signature="e#1584#1591#1#HTML" expanded="true" />
+                <marker date="1494514752670" expanded="false" signature="3968:3973" ph="&amp;" />
+                <marker date="1494514752670" expanded="false" signature="4160:4165" ph="&amp;" />
+                <marker date="1494514752670" expanded="false" signature="4308:4313" ph="&amp;" />
+                <marker date="1494514752670" expanded="false" signature="4440:4445" ph="&amp;" />
+                <marker date="1494514752670" expanded="true" signature="4957:5043" ph="SELECT * FRO... departments" />
+                <marker date="1494514752670" expanded="true" signature="5663:5733" ph="SELECT * FRO... departments" />
+                <marker date="1494514752670" expanded="true" signature="6252:6321" ph="SELECT * FRO... departments" />
+                <marker date="1494514752670" expanded="true" signature="6843:6917" ph="SELECT * FRO... departments" />
+                <marker date="1494514752670" expanded="false" signature="7489:7494" ph="&amp;" />
               </folding>
             </state>
           </provider>
@@ -115,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer-info.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="footer-info.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/footer-info.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
@@ -123,6 +106,16 @@
               <folding>
                 <marker date="1494513636061" expanded="true" signature="3128:3196" ph="SELECT * FRO... departments" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="headers.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/headers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -216,9 +209,9 @@
         <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/peoples.php" />
         <option value="$PROJECT_DIR$/departments.php" />
-        <option value="$PROJECT_DIR$/inc/navbar-top.php" />
         <option value="$PROJECT_DIR$/counter.txt" />
         <option value="$PROJECT_DIR$/inc/footer-info.php" />
+        <option value="$PROJECT_DIR$/inc/navbar-top.php" />
       </list>
     </option>
   </component>
@@ -408,12 +401,12 @@
       <workItem from="1493852209249" duration="5040000" />
       <workItem from="1493902255205" duration="6281000" />
       <workItem from="1493984836644" duration="1960000" />
-      <workItem from="1494511658803" duration="1997000" />
+      <workItem from="1494511658803" duration="2627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99236000" />
+    <option name="totallyTimeSpent" value="99866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
@@ -510,16 +503,16 @@
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="e#790#795#0#HTML" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1494511788128" expanded="false" signature="1552:1559" ph="α" />
-            <marker date="1494511788128" expanded="false" signature="3936:3941" ph="&amp;" />
-            <marker date="1494511788128" expanded="false" signature="4128:4133" ph="&amp;" />
-            <marker date="1494511788128" expanded="false" signature="4276:4281" ph="&amp;" />
-            <marker date="1494511788128" expanded="false" signature="4408:4413" ph="&amp;" />
-            <marker date="1494511788128" expanded="true" signature="4925:5011" ph="SELECT * FRO... departments" />
-            <marker date="1494511788128" expanded="true" signature="5631:5701" ph="SELECT * FRO... departments" />
-            <marker date="1494511788128" expanded="true" signature="6220:6289" ph="SELECT * FRO... departments" />
-            <marker date="1494511788128" expanded="true" signature="6811:6885" ph="SELECT * FRO... departments" />
-            <marker date="1494511788128" expanded="false" signature="7457:7462" ph="&amp;" />
+            <element signature="e#1584#1591#1#HTML" expanded="true" />
+            <marker date="1494514752670" expanded="false" signature="3968:3973" ph="&amp;" />
+            <marker date="1494514752670" expanded="false" signature="4160:4165" ph="&amp;" />
+            <marker date="1494514752670" expanded="false" signature="4308:4313" ph="&amp;" />
+            <marker date="1494514752670" expanded="false" signature="4440:4445" ph="&amp;" />
+            <marker date="1494514752670" expanded="true" signature="4957:5043" ph="SELECT * FRO... departments" />
+            <marker date="1494514752670" expanded="true" signature="5663:5733" ph="SELECT * FRO... departments" />
+            <marker date="1494514752670" expanded="true" signature="6252:6321" ph="SELECT * FRO... departments" />
+            <marker date="1494514752670" expanded="true" signature="6843:6917" ph="SELECT * FRO... departments" />
+            <marker date="1494514752670" expanded="false" signature="7489:7494" ph="&amp;" />
           </folding>
         </state>
       </provider>
@@ -630,13 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="210" column="2" lean-forward="true" selection-start-line="210" selection-start-column="2" selection-end-line="210" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/headers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -822,29 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="159" column="178" lean-forward="false" selection-start-line="159" selection-start-column="178" selection-end-line="159" selection-end-column="178" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#790#795#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <marker date="1494511788128" expanded="false" signature="1552:1559" ph="α" />
-            <marker date="1494511788128" expanded="false" signature="3936:3941" ph="&amp;" />
-            <marker date="1494511788128" expanded="false" signature="4128:4133" ph="&amp;" />
-            <marker date="1494511788128" expanded="false" signature="4276:4281" ph="&amp;" />
-            <marker date="1494511788128" expanded="false" signature="4408:4413" ph="&amp;" />
-            <marker date="1494511788128" expanded="true" signature="4925:5011" ph="SELECT * FRO... departments" />
-            <marker date="1494511788128" expanded="true" signature="5631:5701" ph="SELECT * FRO... departments" />
-            <marker date="1494511788128" expanded="true" signature="6220:6289" ph="SELECT * FRO... departments" />
-            <marker date="1494511788128" expanded="true" signature="6811:6885" ph="SELECT * FRO... departments" />
-            <marker date="1494511788128" expanded="false" signature="7457:7462" ph="&amp;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-737">
@@ -870,6 +833,37 @@
           <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
           <folding>
             <marker date="1494513636061" expanded="true" signature="3128:3196" ph="SELECT * FRO... departments" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/headers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/navbar-top.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="53" column="86" lean-forward="false" selection-start-line="53" selection-start-column="86" selection-end-line="53" selection-end-column="86" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#790#795#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#1584#1591#1#HTML" expanded="true" />
+            <marker date="1494514752670" expanded="false" signature="3968:3973" ph="&amp;" />
+            <marker date="1494514752670" expanded="false" signature="4160:4165" ph="&amp;" />
+            <marker date="1494514752670" expanded="false" signature="4308:4313" ph="&amp;" />
+            <marker date="1494514752670" expanded="false" signature="4440:4445" ph="&amp;" />
+            <marker date="1494514752670" expanded="true" signature="4957:5043" ph="SELECT * FRO... departments" />
+            <marker date="1494514752670" expanded="true" signature="5663:5733" ph="SELECT * FRO... departments" />
+            <marker date="1494514752670" expanded="true" signature="6252:6321" ph="SELECT * FRO... departments" />
+            <marker date="1494514752670" expanded="true" signature="6843:6917" ph="SELECT * FRO... departments" />
+            <marker date="1494514752670" expanded="false" signature="7489:7494" ph="&amp;" />
           </folding>
         </state>
       </provider>

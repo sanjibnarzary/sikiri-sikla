@@ -51,7 +51,7 @@ $f = new Functions();
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">CIT Kokrajhar <sup>&alpha;</sup></a>
+            <a class="navbar-brand" href="/"><i class="glyphicon glyphicon-home"></i> Home <sup>&alpha;</sup></a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
